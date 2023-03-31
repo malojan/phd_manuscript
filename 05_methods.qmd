@@ -1,3 +1,16 @@
 ---
 title: "05_methods"
 ---
+
+
+# Embeddings
+
+One possibility is to compare the **meaning** of climate change over time for different groups. Hence we could understand how different political parties talk about climate change and how this has changed. We can inspire from McLevey approach in its book. 
+
+Different choices have to be made or compared
+
+- Pre-trained (is this exists in FR ? ) vs Local embeddings
+- Which words to choose : climate ? 
+- Which words to compare : policy instruments words (taxe, market) or international/level words ?
+- Which window size ? Particularly important element for parliamentary speeches
+

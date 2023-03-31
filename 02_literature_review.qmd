@@ -20,25 +20,70 @@ Climate change has long been perceivd as a collective action probem requiring in
 
 ### Climate policy costs
 
-- Long term benefits vs tangible costs (Carter and Ockwell 2007, Harrison and Sundstrom 2010)
-- **Climate policy vulnerability** : hence economic costs of action could be oopposed to ambitious action
 
-- **Climate policy backlash** : backlash would be associeted to the hardness of climate policies, of regulatory politics (*Jordan and Matt**)
+Plus récemment, la recherche sur les politiques climatiques a notamment pris un tournant "distributionnel" : accent sur les coûts de la transition et du changement climatique et comment cela affecte les attitudes et le comportement électoral
+
+## Climate policy vulnerability
+
+Comment la position dans l'espace de production et le fait de supporter les coûts des politiques climatiques affectent les attitudes et comportement électoral : interest-based explanations : souvent à partir du carbon cleavage de Mildenberger. 
+
+Politiques climatiques sont difficiles à mettre en place car implique d'imposer des coûts qui peuvent être élevés et souvent inégalement distribués. 
+
+- Effet des politiques climatiques déjà mises en oeuvre
+- Effets politiques  aussi des potentielles politiques climatiques --> Thèse du climate backlash et de potentiels bénéfices pour les partis de droite radicale; 
+- Voir Bechtel et al 
+
+An increasing body of work conceptualise climate politics as a distributive conflicts. Climate policies impose costs and benefits, create winners and losers. 
+
+Climate policy costs would be spatially distributed, concentrated in some areas and not others, and mostly short-term, being more tangibles. On the other hands, climate policy benefits would be more long-term and distant. 
+
+
+- Long term benefits vs tangible costs (Carter and Ockwell 2007, Harrison and Sundstrom 2010)
+- **Climate policy vulnerability** : hence economic costs of action could be oopposed to ambitious action. As costs are hetereogenously distributed, some citizens are more vulnerable than others to climate policy. 
+
+Selon cette logique, la mise en place des politiques climatiques seraient difficiles car elles touchent à des secteurs très différents et donc à de nombreux vested interests. Ainsi, aux Etats-Unis, un des principaux obstacles à l'action climatique identifié est celui de la représentation des industries du carbon, et l'idée de double représentation développée par Mildenberger. 
+
+- **Climate policy backlash** : backlash would be associeted to the hardness of climate policies, of regulatory politics (*Jordan and Matt**). As costs are more concentrated, it is easier for groups opposed to these costs to mobilize (Olson theory of collective action)
 
 - Existential climate politics and asset reevaluation
 - Green-Brown theories
 
 - The literature on public attitudes, inspired by International Political Economy tend to support these arguments for explaining why people support climate policies. 
 
+These authors in this strand of research also highlight the potential effects of climate policies (Aklin and Urpelainen, Stokes, Mildenberger). Sometimes, climate policies do not have direct perceveid benefits but have reinforcing effect through strengthening policy challengers and group promoting climate policies. 
+
 Nevertheless, this literature also aknowledge the importance of norms and identities in explaing climate policy support (Genovese Bayer dans BJPS, dernier working paper de Genovese sur les identités régionales au Royaume-Uni pour soutenir les accords multilatéraux sur le changement climatique. )
 
 If the literature has looked at the perceived effect of policies by voters, we still really do not know how **enactment politics** (Hacker and Pierson 2019, Patterson 2023) affect the politiczation of climate change by political parties. 
 
+<!-- Carbon cleavage among parties !-->
+
+Mildenberger défend notamment que la nature transversale des préférences climatiques à travers les coalitions politiques pré-existantes est la caractéristique principale du conflit politique autour du changement climatique.
+
+
+Derrière cela, il y a l'idée que les partis politiques et leurs électorats seraient ainsi **divisés** sur la question climatique. Est-ce que c'est vraiment le cas ? 
 However, this literature could suggest that as the costs are distributed heteroregenously in spatial terms, politcal parties would be really divided. The co-existence of cross-cutting differences with polarization of political parties still have to explain, isnit paradoxical ? 
 
 - Literature suggest that increase policies and saillence of cost could affect polarisation but this is only a suggestion
 
+- Cas des Tories au UK avec une frange importante climato-sceptique : mais est-ce que c'était lié à des intérêts carbones ? 
+
+A partir du cas Norvégien, @finseraas_climate_2021 ont également montré que les députés de circonscriptions dépendantes du pétrole ont répondu différemment à un choc pétrolier créant des coûts spatiallement concentrés.  [but in that case, it is a schock, this divisions are 'there' before specific events or policies]. Selon eux, ce choc a créé une fenêtre d' opportunité pour les défenseurs de la transition tandis que les autres ont **évités les enjeux environnementaux**. 
+
+<!-- Is the carbon cleavage thesis valid !-->
+
+The first limit of this is how this can be export to european countries, in particular those not relying extensively on coal or oil such as France. It also requires a really clear geographical division of interests, which is the case in the US right (see Hacker paper) now but not necesarilly everywhere. May question the applicability of this in european countries.  Different surveys evident do not show a clear cut division among party identifiers in different countries (ex: ADEME). 
+
+Indeed, this argument may works as long climate policy does not become a crucial element of a party strategy.
+
+One potential explanation for this is proposed by Mildenberger itself, who acknowledge that the differences between Republicans and Democrats is more and more clearer. He argues that there is a realignment at the voter level and for who they vote. Pro-climate constituencies that could have been won by Republicain now vote for democrats and anti-climate constituencies won by democrats now vote for republicans. 
+
+
 But what is the role of political parties in this : in raising the saliency of costs to attract voters ? Or conversely to minimize those costs ? 
+
+
+Ces dernières années, l'augmentation de la saillance de l'enjeu climatique aurait pu rendre plus visible ces conséquences distributitionnelles en raison des débats autour de la mise en place des politiques climatiques. Celles-ci pourraient avoir un effet sur la mobilisation politique et la polarisation de cet enjeu. 
+
 
 C'est aussi ce qui a motivé la question de la durabilty par design de Jordan et al ? 
 
@@ -50,6 +95,13 @@ To include :
 - Brauers et al 2020 : difficulté de sortir du Charbon enalemagne. 
 - Andersen 2019.
 
+## Climate vulnerability ? 
+
+
+- Comment climate vulnerability affecte les attitudes, le comportement électoral : à la fois climate disasters, exposition au changement climatique
+- Est-ce que ça affecte le vote ? Notamment pour les verts : quelques études en Allemagne : essayer de faire une revue de littérature sur ça et d'en tirer des hypothèses sur ce que devrait faire les partis politiques face à cela 
+
+
 # Issue mobilization by political parties
 
 - Political parties are important actors for issue mobilization
@@ -60,12 +112,52 @@ To include :
 - Issue ownership : political parties are perceived as more competent than others by voters, they have interest to emphasize these issues in electoral competition. Parties seek to build an issue profile, a reputation
 - The prediction of these theories is that parties should have stable and distinct issue profiles
 
+- Petrocik 1996, 2003 à partir des idées de Riker : lié aux théories de vote sur enjeux, hausse volatilité électoral 
+- Petrocik 1996 : US, les party 'own' des enjeux, percu comme plus compétent par les électeurs pour gérer ce problème : health care pour Democrates, sécurités nationale pour Républicains
+- Brouard Grossman et Guinaudeau 2012
+- Différentes acceptations de l'ownership : du point de vue des électeurs, du point de vue des partis, différence associative and competence ownership
+- Spilioteq and Vavreck
+- Green-Pedersen et Blomqvist 2004
+- Holian 2004
+- Walgrave, Lefevere et Nuytemans 2009
+- Walgrave et De Swert 2007
+- Comment les partis se construisent une ownership ? Dans le long terme ? Sur une élection : cf. Budge 2015, voir cette discussion entre issue ownership, et issue linkage : des partis peuvent être associés à un enjeu sans nécessairement vouloir le promouvoir. 
+- Notion d'issue profile ? Réputation ? Compétence ? 
+
+--> Partis rendent saillant enjeux où considérés plus crédibles, compétens et cherchent à ignorer autres enjeux
+
+
 ## Avoidance and engagement
 
 - However we see a strong convergence of electoral issues empirically
 - Green-Pedersen explain this by the party system agenda : parties do not have capacity to emphasize the issue they prefere in political competition
 
+
+- Idée de contestation de l'issue ownership d'un enjeu par autres partis car si parti propriétaire, gagne les avantage --> Uptake Sulkin 2005, issue convergence Amoros et Puy 2013, Damore 2005 Sigelman et Buell 2004, issue trepassing (Damore 2004, Norpoth et Buchana 1992, Sides 2006)
+- Issue overlap : Green-pedersen 2007, Green-Pedersen et Mortensen 2011, cf aussi Grossman et Guinaudeau
+- - Une fois enjeux inscrits à l'agenda partisan (Pedersen et Mortensen 2011) : difficile à ignorer pour autres partis. 
+
+
+
+
 ### Electoral threat of challenger and niche parties
+
+:::: {.content-hidden when-format="pdf"}
+::: {.content-hidden when-format="html"}
+Théorie de Bonnie Meguid sur immigration/environnement en France et au Royaume-Uni --> Partis cherchent à contester issue ownership : 2005, 2008 : études commencant à s'intéresser à la réaction de partis mainstreams et leurs effets sur le succès des petits partis et par extension montre comment ce que devient un enjeu dépend de la façon dont les autres partis le récupèrent ou non. Théorie influente de Bonnie Meguid en 2005 sur la distinction entre nicher parties et mainstream parties. --> Etude de la réponse des mainstreams aux niches et comment cela affecte le succès électoral des partis de niches. Quelles sont les stratégies des partis mainstreams pour répondre à ca ? Selon elle les partis peuvent être **dismissive** et réduire la saillance de l'enjeu, **accomodative** en adoptant une position similaire, ou **adversarial** en augmentant la saillance de l'enjeu mais en ayant une position différente. Selon elle, la réponse dépend si la menace électorale est posée à un seul parti, si il est opposant ou alors si à tous les ainstrams partis. Idée est que partis mainstreams réagissent pour réduire la menace électoreale. 
+
+**Issue entrepreneurship theory**
+
+Parallèlement : développement de travaux sur les partis de niche, sur l'introduction de nouveaux enjeux et comment les partis mainstreams répondent à ces enjeux : cf. de Vries and Hobolot 2012, Hobolt and De Vries 2015.  De nouveaux partis émergent quand enjeux non discutés pour politiser, issue entrepreneurs pour se différencier : possible en systèle multi party et conduit à des pressions électorales sur les partis établis car new parties peuvent attirer de nouveaux électeurs et donc susicter des pertes chez les autres. 
+:::
+::::
+--> Partis peuvent aussi chercher à contester l'ownership et à récupérer les enjeux de leurs adversaires
+
+Selon Meguid 2005, les partis établis ont globalement trois options face à l'introduction de nouveaux enjeux par des partis de niche : 
+ - Ignorance
+ - Accomodation : se rapprocher du parti de niche, idée de contestation de l'ownership
+ - Adversalial stance : politiser l'enjeu mais s'en distinguer. 
+
 
 Les partis parlent également des mêmes enjeux à certains moments car ils sont forcés par les autres à attirer de l'attention aux enjeux de leurs compétiteurs. 
 
@@ -74,14 +166,23 @@ Les partis parlent également des mêmes enjeux à certains moments car ils sont
 
 #### Effects of green parties
 
-Part of that literature have investigated the impact of green parties on the politicisation of the environment by mainstream parties. Indeed, while this issue was absent on the political agenda before the 1960's, it has been increasingly taken up by mainstream parties (Carter 2006, Carter 2013, Spoon et al 2012). 
+Part of that literature have investigated the impact of green parties on the politicisation of the environment by mainstream parties. Indeed, while this issue was absent on the political agenda before the 1960's, it has been increasingly taken up by mainstream parties (Carter 2006, Carter 2013, Spoon et al 2012). Cf. Sainteny 2000 on this question in France. Carter 2006 and Gemenis 2010 show that not the case ? 
+
+
 Scholars also suggest that social-democratic parties would have more interest to react to green parties because they are a bigger threat to them than to right-wing parties (Meguid 2008). 
+
+
 
 Conversely, Persico (2014) does not find positif effect of the electoral threat of green parties on next election mainstream environmental salience. He finds a negative and significant effect. Hence, rising green vote share decreases the salience of government parties at the next election. According to the author, this tend to confirm selective emphasis theory, as political parties have interest to highlight different issues rather than taking up the ones of their competitors. 
 
 These differences may be explained by the differences of countries or parties included in the analysis or the type of models that are used. Some use the saillance of the environment and others the vote share. 
 
+:::: {.content-hidden when-format="pdf"}
+::: {.content-hidden when-format="html"}
 
+On this issue, we can also look at Dandoy 2011, and the old work by Rohrschneider 1994 and Kitschelt 1994 qui font déjà l'hypothèse que la gauche serait plus réactive à l'environnement que la droite. 
+:::
+::::
 
 ## Opposition-Government
 
@@ -89,4 +190,11 @@ These differences may be explained by the differences of countries or parties in
 ## Radical Right 
 
 ## Frame competition
+
+## Desagregate political parties
+
+### Issue salience inside parties
+
+**Ennser-Jedenastik et al (2021)** : les stratégies d'emphase des enjeux dépendent de la position des leaders dans le parti. Idée basée sur le fait que les leaders du partis ont des ambitions de carrière (office-seeking) plus que les non leaders plus attachés aux engagements du parti. Les résultats montrent qu'il est plus probable que les leaders du parti s'engagent dans des riding the wave strategy mais pas plu ou moins probable d'adress les owned issues. Les auteurs appelent à *relâcher le postulat de parties-as-unitary-actors*. 
+
 

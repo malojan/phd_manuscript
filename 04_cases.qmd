@@ -2,7 +2,11 @@
 title: "04_cases"
 ---
 
+## Selection criteria
 
+- What is the criteria we use to compare countries ? Carefully select comparison
+- Focus on variation on dependent variable or independent variable ? What can we control for  ?
+- Do our phd really want to draw inferences at the country level ? 
 
 ## Northen countries
 
