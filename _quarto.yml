@@ -1,0 +1,30 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Climate change polarization in Europe"
+  subtitle: "With applications primarily in R"
+  author: "Malo Jan"
+  date: today
+  search: true
+
+  sidebar:
+    collapse-level: 3
+    pinned: true
+  chapters:
+    - index.qmd
+    - part: "Foundations"
+      chapters: 
+        - 01_introduction.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: 
+      - cosmo
+    callout-appearance: simple
+  pdf: 
+    documentclass: scrbook
+
