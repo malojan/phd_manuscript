@@ -1,0 +1,35 @@
+---
+title: "03_theory"
+output-file: docs
+---
+```{mermaid}
+flowchart LR
+  A[Hard edge] --> B(Round edge)
+  B --> C{Paris Agreement}
+  C --> |Climate accountability of government| D[Opposition by LWP]
+  C --> |Salience policy cost| E[Opposition by RWP]
+  D --> F[Polarization]
+  E --> F[Polarization]
+```
+
+
+
+
+:::: {.content-hidden when-format="pdf"}
+::: {.content-hidden when-format="html"}
+
+Why would a party either promote or oppose climate policies ? 
+
+One explanation is interest based : social groupes that the party represent may be hurt by these policies and so the electoral fortune of this party. It may be farmers for the right or the BBB exemple in the Netherlands, or may be in the local area with wind farms in MP's constituencies. 
+
+Another explanation is **ideology-identity** based : climate change and policies implemented may be perceived as a threat to the ideology or identity of some social groupes that a party seek to represent. 
+:::
+::::
+
+:::: {.content-hidden when-format="pdf"}
+::: {.content-hidden when-format="html"}
+
+We argue that the political visibility of climate policies costs and benefits are essential to understand polarization of climate change. Hence, as climate policies become salient, left-wing parties should try to raise the salience of climate action benefits and the costs of **inaction**. Right wing parties should emphasize the cost of action, but minimize the costs of inaction. 
+
+:::
+::::

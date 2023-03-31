@@ -1,9 +1,23 @@
+
 # Introduction
 
-This is a book created from markdown and executable code.
 
-See @knuth84 for additional discussion of literate programming.
 
-```{r}
-1 + 1
-```
+
+
+
+<!-- Question de recherche : drivers of issue evolution !-->
+
+
+:::: {.content-hidden when-format="pdf"}
+::: {.content-hidden when-format="html"}
+
+The polarization is these contries in puzzling regarding the literature : If climate policy performance is associated with consensus, why are the most consensual countries the more polarized on climate change  ?
+
+These are the countries where climate change is the most salient (Eurobarometres, Euromanifestoes) : Norway, Sweden, Danemark,  Netherlands. 
+
+Indeed, institutionnalist accounts of climate policies show that institutions matters : Farstad et Finnegan. 
+
+
+:::
+::::

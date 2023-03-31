@@ -1,0 +1,92 @@
+---
+title: "Literature Review"
+---
+
+:::: {.content-hidden when-format="pdf"}
+::: {.content-hidden when-format="html"}
+
+The literature on climate policies has been emphasize mostly three different aspects in recent years : the distributive dimensions of climate change, populism and its positionnal dimension in electoral competition. 
+:::
+::::
+# Politicisation theories
+
+## Structural drivers
+
+## The international politics of climate change
+
+Climate change has long been perceivd as a collective action probem requiring international coordination across countries to ratify agreements (Keohane and Victor 2016)
+
+## The domestic political economy of climate policies
+
+### Climate policy costs
+
+- Long term benefits vs tangible costs (Carter and Ockwell 2007, Harrison and Sundstrom 2010)
+- **Climate policy vulnerability** : hence economic costs of action could be oopposed to ambitious action
+
+- **Climate policy backlash** : backlash would be associeted to the hardness of climate policies, of regulatory politics (*Jordan and Matt**)
+
+- Existential climate politics and asset reevaluation
+- Green-Brown theories
+
+- The literature on public attitudes, inspired by International Political Economy tend to support these arguments for explaining why people support climate policies. 
+
+Nevertheless, this literature also aknowledge the importance of norms and identities in explaing climate policy support (Genovese Bayer dans BJPS, dernier working paper de Genovese sur les identités régionales au Royaume-Uni pour soutenir les accords multilatéraux sur le changement climatique. )
+
+If the literature has looked at the perceived effect of policies by voters, we still really do not know how **enactment politics** (Hacker and Pierson 2019, Patterson 2023) affect the politiczation of climate change by political parties. 
+
+However, this literature could suggest that as the costs are distributed heteroregenously in spatial terms, politcal parties would be really divided. The co-existence of cross-cutting differences with polarization of political parties still have to explain, isnit paradoxical ? 
+
+- Literature suggest that increase policies and saillence of cost could affect polarisation but this is only a suggestion
+
+But what is the role of political parties in this : in raising the saliency of costs to attract voters ? Or conversely to minimize those costs ? 
+
+C'est aussi ce qui a motivé la question de la durabilty par design de Jordan et al ? 
+
+
+
+
+To include : 
+
+- Brauers et al 2020 : difficulté de sortir du Charbon enalemagne. 
+- Andersen 2019.
+
+# Issue mobilization by political parties
+
+- Political parties are important actors for issue mobilization
+
+## Salience and issue ownership theories
+
+- Saliency theories : the interest parties have to politicize issues come from both instrumental and ideologic reasons
+- Issue ownership : political parties are perceived as more competent than others by voters, they have interest to emphasize these issues in electoral competition. Parties seek to build an issue profile, a reputation
+- The prediction of these theories is that parties should have stable and distinct issue profiles
+
+## Avoidance and engagement
+
+- However we see a strong convergence of electoral issues empirically
+- Green-Pedersen explain this by the party system agenda : parties do not have capacity to emphasize the issue they prefere in political competition
+
+### Electoral threat of challenger and niche parties
+
+Les partis parlent également des mêmes enjeux à certains moments car ils sont forcés par les autres à attirer de l'attention aux enjeux de leurs compétiteurs. 
+
+- De Vries and Hobolt
+- Meguid 2005, 2008 
+
+#### Effects of green parties
+
+Part of that literature have investigated the impact of green parties on the politicisation of the environment by mainstream parties. Indeed, while this issue was absent on the political agenda before the 1960's, it has been increasingly taken up by mainstream parties (Carter 2006, Carter 2013, Spoon et al 2012). 
+Scholars also suggest that social-democratic parties would have more interest to react to green parties because they are a bigger threat to them than to right-wing parties (Meguid 2008). 
+
+Conversely, Persico (2014) does not find positif effect of the electoral threat of green parties on next election mainstream environmental salience. He finds a negative and significant effect. Hence, rising green vote share decreases the salience of government parties at the next election. According to the author, this tend to confirm selective emphasis theory, as political parties have interest to highlight different issues rather than taking up the ones of their competitors. 
+
+These differences may be explained by the differences of countries or parties included in the analysis or the type of models that are used. Some use the saillance of the environment and others the vote share. 
+
+
+
+## Opposition-Government
+
+
+## Radical Right 
+
+## Frame competition
+
