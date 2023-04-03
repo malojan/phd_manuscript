@@ -8,9 +8,40 @@ title: "Literature Review"
 The literature on climate policies has been emphasize mostly three different aspects in recent years : the distributive dimensions of climate change, populism and its positionnal dimension in electoral competition. 
 :::
 ::::
+
 # Politicisation theories
 
+## What is politicisation
+
+### Actor expansion
+
+- Number of people involved
+- Schattschneider 1975 [1960] : "nothing attracts a crows as quickly as a fight"
+
+
 ## Structural drivers
+
+### The naive hypothesis : problem indicator
+
+- Societal developments : the problem become more pressing so 
+
+One first hypothesis, 'naive' is that the problem become "objectively" more important so it requires more attention. 
+
+### Public opinion
+
+The idea that politics follow public opinion
+
+- James Stimson
+- Soroka, Wlezien
+
+## Salience
+
+Schattschneider : "Visibility is a factor in expanding of the scope of conflict". 
+
+
+
+
+
 
 ## The international politics of climate change
 
@@ -20,7 +51,7 @@ Climate change has long been perceivd as a collective action probem requiring in
 
 ### Climate policy costs
 
-
+Cela revient à la question de la source du conflit : on est polarisé sur quoi. Qu'elle est la base des différences ? 
 Plus récemment, la recherche sur les politiques climatiques a notamment pris un tournant "distributionnel" : accent sur les coûts de la transition et du changement climatique et comment cela affecte les attitudes et le comportement électoral
 
 ## Climate policy vulnerability
@@ -105,8 +136,19 @@ To include :
 # Issue mobilization by political parties
 
 - Political parties are important actors for issue mobilization
-
+Comment les partis politiques se saissisent-ils d'enjeux ? Approche économiciste, résolument stratégique, sur l'offre politique et non sur la demande. Dans leur communication, leurs campagne, les partis doivent stratégiquement décider des enjeux dont ils veulent parler et ceux qu'ils veulent négliger. Partis ainsi allouent une partie de leur temps à sélectionner les enjeux. 
 ## Salience and issue ownership theories
+
+### Salience theory
+
+- Développement esnsuite études empiriques sur la question à partie du MRG-CMP --> théorie de la saillance, idée de selective emphasis des partis sur les enjeux où ils ont l'avantage car perçus comme les plus compétents. Début également de l'idée d'essayer de le mesurer, de quantifier du texte et voir la place que donne les partis à certains enjeux plutôt que d'autres (expliqé dans Budge 2015)
+
+- Robertson 1976 : Premières études empiriques autour des idées de Stokes qui restait un argument théorique et non pas empirique : travail empirique sur les programmes britanniques entre 1922 et 1974, développement de 22 catégories de politique publique et trouve que peu des phrases codées ont du contenu pro et con mais au contraire mise en avant de l'importance des enjeux, déclarent vouloir y donner une priorité, peu de mention des autres partis mais plutôt **selective emphasis**.. A la base voulait voir convergence des partis et tester hypothèse downsienne mais au final mesure saillance des différentes policy areas. Mais au final mesure de super dimensions Left right déjà à partir d'analyse factoriel. Robertson en vient à la conclusion que partis convergent quand ils pensent que cela peut les faire gagner, faibles marges mais sinon quand large victoire ou défaite possible, reste sur leurs enjeux : par contre quand vote souci stratégique, move to the centre : idée que ce n'est pas nécessairement les enjeux préférés des partis qui leur accorde des votes. 
+- Budge et Farlie 1983 : ambition e généraliser les idées de Robertson aux élections et aux campagnes et voir quels sont les enjeux qui prédominent, tentation de voir les effets de la prédominance de ces enjeux sur le résultat des élections --> Idée que partis sont liés à des enjeux pour le meilleur ou pour le pire. 
+- Budget et Farlie 1977 : extension aux US
+- Budge Robertson et Hearl 1987
+- Budge et al 2001
+- Klingemann Volkens et Bara 2006
 
 - Saliency theories : the interest parties have to politicize issues come from both instrumental and ideologic reasons
 - Issue ownership : political parties are perceived as more competent than others by voters, they have interest to emphasize these issues in electoral competition. Parties seek to build an issue profile, a reputation
@@ -137,6 +179,10 @@ To include :
 - Issue overlap : Green-pedersen 2007, Green-Pedersen et Mortensen 2011, cf aussi Grossman et Guinaudeau
 - - Une fois enjeux inscrits à l'agenda partisan (Pedersen et Mortensen 2011) : difficile à ignorer pour autres partis. 
 
+
+### Riker theory
+
+- Théorie héresthetic et manipulation des enjeux : cf. Riker 1982, 1986, 1996 : l'héréstetique correspond à la capacité stratégique de manipuler les enjeux qui sont à l'agenda : lorsque les partis ont la même position sur un enjeu, ils cherchent à mettre en avant d'autres enjeux (*dispersion principle*). Partis peuvent mettre enavant enjeux où soutien public, adversaire opposé et minoritaire (*dominance principle*)
 
 
 
@@ -184,6 +230,15 @@ On this issue, we can also look at Dandoy 2011, and the old work by Rohrschneide
 :::
 ::::
 
+The recent literature  on issue competition has also focused on issue expansion from non-mainstream parties (Spoon 2011, Henceroth and Jensen 2018, Spoon and Williams 2020, Spoon and Williams 2022). While small parties are considered as "niche", they also emphasize other issues but which ones ? Spoon and Williams (2020) show for instance that the issue focus of green parties, consideres as issue owners of the environment, have expanded towards the economic issues. Their article show that when unemployment is high, green parties talk more about economic. Hence Spoon et Williams argue that green parties are also vote seeking and not only policy seeking. Non-mainstream parties could then also adopt vote maximizing strategies. Spoon and Williams (2022) move beyond the reaction of mainstream parties to the reaction of non-mainstream to the issue introduction of other mainstream parties. They par
+
+
+Spoon & Williams (2022) vont au delà de la réaction des partis mainstreams aux partis non mainstreams en étudiant la réaction des autres partis non maistreams à l'introduction d'enjeux de partis non mainstreams. Notamment la question de quand est-ce que les partis de droite radicale deviennent "environmental chauvinists" : selon eux, les non-mainstreams partis parlent des enjeux introduits par les autres lorsque ces enjeux sont saillants pour le public et quand leurs électeurs sont en accord sur cet enjeu. Idée de montrer que ces partis aussi sont responsive aux électeurs de façon générale alors que previous recherche pouvait montrer que plus policy seeking. 
+
+
+
+
+
 ## Opposition-Government
 
 
@@ -193,8 +248,32 @@ On this issue, we can also look at Dandoy 2011, and the old work by Rohrschneide
 
 ## Desagregate political parties
 
+Inside parties, issues may create three groups : those who advocate for more action, those who advocate not for action and those who do not care, that do not have a clear stance on the matter. 
+
+
 ### Issue salience inside parties
 
 **Ennser-Jedenastik et al (2021)** : les stratégies d'emphase des enjeux dépendent de la position des leaders dans le parti. Idée basée sur le fait que les leaders du partis ont des ambitions de carrière (office-seeking) plus que les non leaders plus attachés aux engagements du parti. Les résultats montrent qu'il est plus probable que les leaders du parti s'engagent dans des riding the wave strategy mais pas plu ou moins probable d'adress les owned issues. Les auteurs appelent à *relâcher le postulat de parties-as-unitary-actors*. 
+
+### Personal characteristics
+
+#### Constituency level
+
+
+#### Les caractéristiques personnelles du personnel politique
+
+##### Gender
+
+- Le genre : voir Esther Hataway, toute une littérature sur le genre montrant que femmes se soucient plus du changement climatique que les hommes : mais quelle dependent variable ? Aussi article de Mavisakaylan et Taverdi qui essaient de montrer que de façon comparative, l'augmentation de la représentation parlementaire féminine conduit à des politiques climatiques plus contraignantes
+
+##### Age, generation and cohort
+
+A partir d'une étude des débats sur le changement climatique au Bundestag, Debus et Himmelrath (2022) trouvent que toute chose égale par ailleurs, **les parlementaires plus jeunes parlent plus du changement climatique dans les débats parlementaires que les plus âgés**. L'explication théorique avancée serait que parler de ce sujet permet de renforcer la perception de leur compétence ou celle de leur partie sur un sujet saillant pour les jeunes électeurs. 
+
+##### Education
+
+Educational backround ? Anciens militants des mouvements climats ont aussi investi les parlements (voir Alma Dufour par exemple)
+
+A relier avec toute la littérature sur l'importance des caractéristiques personnelles des législateurs pour expliquer le comportement parlementaire : cf. les travaux de Burden, de Carnes, de Debus. Travaux la plupart du temps liés à la représentation descriptive des femmes, des minorités ethniques ou de la classe ouvrière.? 
 
 

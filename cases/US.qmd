@@ -1,0 +1,80 @@
+---
+title: "Climate politics in the US"
+format: html
+editor: visual
+---
+
+Large littérature sur les politiques climatiques aux US, qu'est-ce que l'on peut en apprendre ?
+
+-   Un des principaux pollueurs ever avant d'être dépassé par la Chine en 2007
+-   Longtemps considéré comme un laggard : Bush 2002, rejet du protocole de Kyoto puis sortie de l'accord de Paris par Donald Trump. Climate denial super important historiquement.
+
+Mildenberger défend pourtant qu'il existe une histoire de tentative de mise en place de réformes de politiques climatiques
+
+-   Notamment Waxman-Markey bill en 2009, autrement nommée American Clean Energy Security Act : Obama a réussi à mettre en place certaines régulations climatiques pendant son mandat mais la plupart ont disparu sous les attaques de l'administration de Trump. Mildenberger défend notamment que le conflit politique autour des politiques climatiques aux US est fortement économique. *Dans quelle mesure c'est le cas partout?* **Dans quelle mesure les politiques climatiques sont-elles opposées par des politiciens défendant des carbon constituencies en France ?** Dans d'autres pays ?
+
+-   Pro-climate faction ont pu réussir à prendre le dessus en 1993 ou en 2009 à la House mais souvent n'est pas passé au Sénat (veto point theory)
+
+-   Changement des dynamiques du conflit autour des politiques climatiques en 2007 avec Massachussets vs EPA
+
+-   Rôle important de l'expansion du conflit des groupes d'intérêt dans la public sphere (expansion of conflict Schattscneider)
+
+-   Carbon coalitions : business with environmental groups to defend ETS and push for it in 2007, 2009, travaux de Meckling justement. : notammeent US Climate Action Partnership
+
+-   voir aussi les travaux de Skocpol sur climate politics, le TEA party et sur gloval warming : A la fois dans perspective and POlitics, Kocj netwotk, et aussi Making sense of the past and future politics of global warming in the US
+
+-   Leaders : Bush a développé un discours sur le climat en 1992 pour se distinguer de Reagan (Mildenberger 2020, aussi dans the dynamics of federal climate policy conflict)
+
+Debate on material vs ideological interests structuring US climat epolicy preferences : question of the ideological gradient
+
+-   Layzer 2012 : republican skepticism lié à l'idéologie anti-étatique des républicains
+-   Cooper et al 2018 : Interests : Shale gas discovery makes elected officials from district 15-20% point less likey to support environmental reforms
+-   Cragg et al 2013 : Interests
+
+Theda Skocpol parle de hardening of the Republican Party stances on environmental issues into 2014 and 2016. En 2010 failed de la réforme de cap and trade, notamment car changement d'avis de nombreux républicains après campagne de expansion of conflict
+
+Obama vu vraiment comme une opportunité pour changer les choses.
+
+Voir Vogel et aussi Rabe sur l'importance des Etats fédérés qui agissent sur le climat dans la dynamique, California effetct : fédéralisme comme favorisant climate policies here. \# Us and international negociations
+
+-   Us acceptent la cible la plus forte de Kyoto
+
+-   Opposition uniees et forte des business comme la Global Climate Coalition : arguments sur competitiveneqs, perte de obs
+
+-   Questionning de la science
+
+-   Toujours eu des bipartisan support, des Républicains championing climate change legislation but mostly alone : ex John McCain or Lindsey Graham.
+
+-   De l'autre côté Joe Machin West Wirginia
+
+-   Republicain Party became party of the fossil industry in America : notamment important financement politique de ces industries depuis les années 1990. \# 1997 and Kyoto
+
+-   Déjà difficile pour US de ratifier le protocole de Kyoto. Quelques mois avant les négociations de Kyoto, une résolution Byrd-Hagel, co-sponsored par un Républicain et un Démocrate pour exprimer que Sénat ne voterait pas un traité qui mandate des réductions d'émissions des pays dévelopés si pas d'engagements des pays en développement.
+
+-   EN février 2002 Bush annonce que les US réduiront leurs émissions de 18% sous 2002 levels en 2012 sur une base volontaire
+
+# Obama
+
+-   Campaign issue of climate change, pledged a new chapter, announced cap-and-trade
+
+-   Waxman-Markley bill proposed to Congress with new target of emissions reduction : passed the House with 219 to 212 in june 2009 but not senate : lot of opposition from democratic senators from coal mining/manufacturing state
+
+-   2013 Obama annouced Climate Action Plan
+
+-   2014 US-China agreement \# Trump
+
+
+
+L’étude des conflits politiques sur la politique climatique provient principalement des Etats-Unis où il a été observé une forte polarisation partisane dès la mise à l’agenda de l’enjeu dans les années 90 également très présente parmi les citoyens s’identifiant comme démocrates et républicains.
+
+- Adhésion des républicains ? 
+- Décalage entre présidence de George Bush, non ratification de Kyoto et action volontariste d'Obama par exemple (Atkinson 2020 Politics of climate change OBAMA)
+- Obama : 1. Volonté de restaurer image de la science, emphase sur les dangers pour l'économie et action climatique pour apporter du changement. VP Al Gore aussi. Néanmoins : obstacles importants sous Obama pour mettre en place des politiques climatiques, legislative gridlock et partisan poltiics --> Cf. Aussi Bailey 2010, volonté d'Obama de faire du climat une priorité : reference "spectre warning planet". Mais selon Atkison : "There was a vociferous climate denial lobby within the Republican party"
+
+La particularité de la polarisation aux Etats-Unis tient notamment à la présence historique d'un réseau de lobby des énergies fossiles et de thinks tanks conservateurs. 
+
+
+- Travaux aux Etats-Unis historiques sur division entre démocrates et républicains en termes de position
+-  Même travaux montrant différences importantes de discours aux US --> Voir travaux avec Dunlap et ses collègues qui font du topic modelling et montrent différences gauche droite. 
+-  Aussi travaux Kim etc ? 
+

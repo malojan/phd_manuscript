@@ -1,0 +1,72 @@
+---
+title: "02b_politicisation"
+editor: visual
+---
+
+Why issues may become more polarized ? How an issue become divisive ? Under which conditions a salient issue become polarized among different parties ? 
+
+# Conceptualizating politicization
+
+A lot has been written on politicisation. 
+
+- Schmitter 1969 : "process of rise in the convtroversiality of the regional decision-making process"
+Schattschneider : intensity, visibility, direction and scope
+
+But also Palonen, politics as activity, politiicsation as the act of marking an issue as political.
+
+Hutter and Grande 2014 : 
+
+1. Issue salience (visibility) : pre-condition for politicisation. Without salience, there is no polarisation and conflict
+2. Expansion of the actors 
+3. intensity of conflict : ideological distance between parties, intense political agreement with distinct stances
+
+Hoeglinger 2016, Hooghe and Marks 2009, Hutter and Kriesi 2019, De Wilde 2011, De Wilde et al 2016, De Wilde and Zurn 2012, Zurn 2019
+
+Grande and Hutter 2016 : "expansion of the scope of conflict within the political system"
+
+Some others authors however have restricted their conceptualization of politicisation as salience only : Green-Pedersen 2012. 
+
+How to link this with the literature on the politics of competence, of blame attribution, credit claiming ? 
+
+- Issue became politicized when opposition have also more opportunities to blame the governemnt on the topic
+
+Souvent politicisation implique également le public, qui a des attitudes de plus en plus définies, voir aussi issue evolution, puisVan der Eijk and Franklin 2004
+
+# Factors of politicization
+
+1. Real-words indicators
+2. Public opinion change -> Parties react (but why would public opinion change) and bottom-up processes : civil society demands and protests : in the EU literature, some work in asking whether protest affect the politicisation of European Integration : Della Porta and Caiani 2009, Della Porta and Parks 2018 showing that protest have targeted national governments but also EU institutons (Calossi 2016)
+3. Critical events as windows of opportunities for triggering new conflicts
+
+
+## The role of political parties
+
+- Hooghe and Marks 2009, Schattschneider : contestation is made by the involvment of party actors. 
+- What challengers do : issue entrepreneurship and niche partiew
+- How mainstream parties react : Green-Pedersen et al
+
+4. Political parties : turning an valence issue to position as a party strategy, even the green have turning to positional competition ? Positional competition is a state but it is also a strategy from political parties : go to see Riker. 
+
+Is there existing work on politicisation as a strategy, parties may seek to alter the debate on this issue by turning an issue conflictual. 
+
+- DO the greens have evolved on these kind of strategies ? 
+
+
+
+### Why do parties change their positions ? 
+
+Do parties have changed their positions ? Not really but they haven taken positions more clearly, they have started to takemore precised positions
+
+Literature on policy shifts ; Groffman 2004, Hooghe and Marks 2018, Hooghe et al 2002, Marks and Wilson 2000, Marks et al 2002, De Sio and Weber 2004
+
+### Privatization of conflict, depolitization 
+
+Parties may also want that an issue not become a conflict into party competition, for this they can try to depoliticize it
+
+- To blur : vaguely outline policy positions
+- To individualise, to put it outside of the scope of state intervention (see Schattschenider)
+
+Mainstream parties shoudl try to limit the scope of conflict ? 
+
+
+

@@ -1,0 +1,235 @@
+---
+title: "01_France"
+author: "Malo Jan"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# Contexte énergétique pré-90's
+
+
+Après la seconde guerre mondiale, le système énergétique est transformé avec une série de nationalisations et regroupement aboutissant à la création d’entreprises publiques d’électricité (EDF), de gaz (GDF) et de charbon (charbonnages de France). Pendant les 30 glorieuses, la France électrifie ses zones rurales et développe un programme hydraulique permettant d’assurer ¼ de la production d’électricité, aidée par le bois de chauffage qui jouent un rôle important pendant le choc pétrolier. Cependant, celui-ci ainsi que la perte des colonies font prendre conscience du problème de la dépendance au pétrole. Une réorientation de la politique énergétique française a donc lieu dans les années 70 avec le plan Mesmer qui développe un programme de nucléaire civil et met l’accent sur la diversification des sources avec le développement des renouvelables et un programme de maitrise de la demande énergétique. La politique d’efficacité énergétique s’institutionnalise avec la création de l’Agence pour les économies d’énergie et celle des renouvelables avec le Commissariat à l’énergie solaire et le programme Themis finalement abandonné. 
+
+Emissions de la France relativement faible comparés aux autres pays européens en raison de son programme nucléaire développé avec le Plan Mesmer de 1974 qui a fait baissé les émissions de 23% dans les années 80, dans les années 90 nucléaire représente 75% de la production électrique et hydro 15%. 
+Les années 90 : la promotion d’une taxe carbone européenne
+Premières discussions de la France sur le changement climatique et création du GIES
+Contexte : Colloque de Lassay Atmosphère et climat 4 mars 1989 et Fabius demandant l’inclusion de l’environnement dans DH, G8 de la Haye, découverte du sujet climatique par la majorité politique pour contrer les Verts, volonté de leadership mondial, Rocard demande la création d’une organisation mondiale de l’environnement. 
+Conférence internationale sur le changement climatique (80 pays) de la Haye à l’initiative de la France, Espagne et Pays-Bas en mars 1989 
+La création du GIES par Rocard et le ministre de l’Environnement de l’époque, lettre mission Rocard : France doit contribuer. Mais avec Nucléaire, Emissions FR faible en Europe, secteur transport forte émissions mais pas électricité. Approche principalement défensive initialement, éviter approche objectif chiffré.
+•	7 novembre 1990 : déclaration ministérielle de la deuxième Conférence sur le climat
+La participation et la signature de la Convention 
+Préparation de la Convention par Jean Ripert
+1992 : A2 Convention : objectif de stabiliser les concentration de GES dans l’atmosphère à un niveau empêchant toute perturbation anthropique du système climatique. Engagement à publier des inventaires nationaux d’émissions des sourecs et puits de gas à effet de serre, mise en place de programmes nationaux d’atténuation , diffusion de technologie. France un des premiers pays à adhérer à l’UNDCCC.
+
+
+
+La création de la MIES
+Création de la MIES à la suite de RIO en 1992
+•	1993 : Programme Français de prévention du changement du climat développé par la MIES qui servira de communication nationale pour les Nations Unies. : France défend que l’indicateur devrait être émissions par tête car elles sont faibles en France, défendait taxe carbone mais seulement sur le carbone du fossile
+Objectifs de la France dans les années 90 est d’éviter l’adoption de cibles de réduction précises, promotion  d’une répartition internationale basée sur les émissions par têtes en raison des faibles émissions par têtes française. Promotion au niveau européen d’une carbone taxe seulement sur le contenu des fuels. Abandon des projets de taxe européenne en 1993 
+La ratification de la CCNUCC
+Le projet de loi autorisant la ratification de la CCNUCC est déposé le 15 décembre 1993 à l’Assemblée nationale et renvoyé à la Commission des affaires étrangères dont Roland Nungesser sera le rapporteur (rapport N958, déposé 20/01/1994, séance publique le 25). Le rapport est adopté sans modification en 1ère lecture le 25 janvier 1994, déposé le même jour au Sénat à la commission des affaires étrangères, rapporteur Jacques Golliet. Le texte est adopté en 1ère lecture au Sénat le 27 janvier. La loi est publiée au JO le 5 février 1994.  
+En mars 1994, la France fournit à la Commission européenne les premiers éléments pour un programme de lutte contre l’effet de serre. En 1995, un Premier programme national de prévention du changement climatique est présenté dans la 1ère communication nationale à la Convention Cadre sur le climat. En 1996, décisions prises lors du conseil des ministres du 26 novembre 1997 avant la Conférence de Kyoto et seconde communication nationale. 
+20 juin 1994 : publication au JO du décret portant publication de la Convention Cadre des Nations unies sur le changement climatique conclue à NY le 9 mai 1992 et signée par la France le 13 juin 1992  PM et MAE chargé de l’execution du décret
+Les préparations du Protocole de Kyoto
+En 1997 : deuxième communication nationale : Kyoto approche peu ambitieuse. 
+Participation au gouvernement des Verts 
+1.	La préparation au protocole de Kyoto et la tentative française de pousser pour une taxe  Importance du nucléaire, verdissement du nucléaire cf. les travaux de Evrard
+26 novembre 1997, présentation en Conseil des ministres d’un plan national de lutte contre l’effet de serre à 5 jours du sommet de Kyoto  Discussions doivent porter sur idée promue par US d’un système de permis de polluer négociable.  Appui de la France dans le plan sur l’adoption d’une directive européenne sur la taxation des produits énergétiques
+Dans le cadre du mécanisme de partage de fardeau européen, la France s’engage à stabiliser ses émissions de 2008-2012 par rapport à 1990. Engagements plus faibles que d’autres pays, de nombreux pays ont cherché à agir sur la décarbonation de leur système électrique mais pas la France étant donné son secteur électrique reposant principalement sur le nucléaire et l’hydroélectrique. Au niveau européen, réduction de 8% mais France accepte seulement stabilisation. 
+Après Kyoto, l’enjeu climatique devient de plus en plus important et nécessite un programme national pour mettre en œuvre les objectifs de la France. Le 27 novembre 1998, la décision prise par la Commission interministérielle de l’effet de serre réunie le 27 novembre 1998  Groupes de travail sectoriels de la MIES au S1 1999  Approbation du gouvernement le 19 janvier 2000 du PNLCC, socle de la 3ème communication nationale  Promotion en son sein de « nouveaux » instruments de gouvernance ?
+1998 : rapport Lepeltier au Sénat
+Le PNLCC 
+Contexte
+Plan élaboré par la MIES, collaboration avec Ministère de l’ATE à la suite d’une demande du PM lors de la CIES de novembre 1998, validée par commission du 19 /01/2000  Centaine de mesures pour que France réponde aux engagements de Kyoto. Dévoilé au moment de préparation de la conférence de la Haye, importante pour l’application du Protocole, préparation depuis 1998 pour élaborer des mesures nationales en plus de celles adoptées en 93/complétées en 1995.  Nécessité d’évaluer l’évolution des GES dans tous les secteurs
+« quelques grands principes ont inspiré ce rapport : la mise en place d’instruments économiques d’incitation, l’équilibre entre mesures internes et mécanismes de marché, la maitrise et l’économie d’énergies à la production comme à la consommation, la nécessité d’une information précise sur les conséquences en termes d’émissions de GES de toute décision d’investissement public ou privé ». Jospin en intro du rapport. 
+PNLCC promotion de nouveaux instruments  de marché : taxe environnementale, marché carbone et feed-in-tariffs pour énergies renouvelables (Evrard, Bocquillon et Evrard)
+Le 19 janvier 2000, le gouvernement approuve le PNLCC, censé fournir le socle de sa 3ème communication national
+Engagements de l’UE dans le cadre de Kyoto et le burden sharing  Nécessité d’un programme national : 
+Juillet 2000, adoption par le Parlement de Tokyo
+2000 : Plan National d’amélioration de l’efficacité énergétique, justification principale dans changement climatique
+
+1.	Contexte de forte croissance économique, prévision de dépassement de 25% des émissions pour période 2008-2012  Le plan national de lutte contre le changement climatique en 2000 : mettre en œuvre les objectifs de Kyoto. Trois catégories de mesures : ETS (en réalité attente d’un truc européen) et accords volontaires, taxe carbone et efficience énergétique/usage renouvelables. Voynet a resisté à l’utilisation de puits de carbone lors des discussions de la COP6. TGAP refusée par le Conseil Constitutionnel en décembre 2000 car ne respecte pas principe d’égalité face à l’impôt. 
+Également évolution du poids du Parlement dans la politique climatique 
+Le 19 février 2001, à l’initiative parlementaire : création de l’ONERC et décret d’application le 8 mars 2002
+En novembre 2001, la France actualise le PNLCC pour communication nationale
+2.	Adoption Programme national de lutte contre le changement climatique, actualisé en NOV 2001 pour communication nationale FR Convention climat et programme national amélioration efficacité énergétique 2000. 100 mesures, panoplie instrument : futur marché carbone, accords volontaires avec industrie, programme ENR et efficacité énergétique et taxation énergie. 
+3.	https://www.actu-environnement.com/ae/news/512.php4
+Le RAC en novembre 2002 produira une deuxième évaluation inter associative du PLNCC. 
+
+Le PNLCC de 2000 : 3 catégories de mesures
+-	Règlementation, maitrise de l’énergie bâtiment, amélioration exploitation transport
+-	Mesures économiques incitatives agissant sur les prix énergies fossiles (cohérence avec projet de directive européenne sur taxation produits énergétiques) : prix de référence pour la TEQ de 20 euros
+-	Actions structurelles sur l’offre des secteurs à forte émissions : bâtiment, production d’énergie, transports
+
+
+
+
+ADEME et ONG ont essayé de promouvoir des initiatives volontaires dans les années 90 au niveau local
+Partis politiques : évitement du sujet par les verts ? 
+ONG : création du RAC et mobilisation pour le protocole de Kyoto, autres assos environnementales portent-elles le sujet ? Pose la question de la structuration du mouvement climat en France 
+Création du RAC
+Médias
+Scientifiques
+
+Le débat de 2000 autour de la TGAP et la censure par le Conseil Constitutionnel
+Dans la foulée de l’adoption du protocole de Kyoto et en vue d’atteindre les objectifs quantifiés de la France de stabilisation de ces émissions, la France prévoit d’étendre la Taxe générale sur les activités polluantes (TGAP) crée en 1999 dans la loi de finances (entrée en vigueur 01/2001) par DSK aux consommations intermédiaires en énergie des entreprises et d’en affecter le contenu au fonds de compensation de la baisse des cotisations à la suite de la mise en place des 35 heures  . Le gouvernement voulait alors se doter d’un instrument discal de lutte contre l’effet de serre et de la maitrise de l’énergie (extension première au secteur agricole et fabriquant de lessive en 2001). Adoptée au Parlement dans le cadre de loi de finances rectificative pour 2000
+Selon la presse, Fabius aurait cherché à réduire la TGAP à son arrivée à Bercy
+Le 29 décembre 2001, l’extension de la taxe aux produits énergétiques est censurée par le Conseil constitutionnel pour cause de rupture d’égalité devant l’impôt/  
+Intention de taxe carbone  Adoptée au Parlement en 2000 puis rejetée par le conseil constitutionnel pour raison de rupture du principe d’égalité face à l’impôt car certaines grandes entreprises étaient exemptées. 
+•	Une fois à Bercy, Fabius cherche à réduire TGAP qui devait à la base s’étendre aux consommations intermédiaires d’énergie des entreprises, dans presse mention de lobbies industries, patronaux faisant valoir leur pdv auprès des parlementaires, opposition des députés socialistes puis charge de Jacques Chirac le 15 décembre devant la fédération du bâtiment
+La politique climatique sous Chirac II
+Dans les années 2000, décalage entre l’augmentation des émissions et la cible de Kyoto en raison de la forte croissance économique (Evrard et Bocquillon), peur de ne pas respecter les cibles de Kyoto ont participé au Plan 2004 (Szarka 2008 :128)
+Szarka  Au début gouvernement sceptique à propos de l’ETS mais finalement s’est bien adapté aux structures nationales
+2003  Direction du PE et Conseil du 13 octobre 2003 établissant Système échange de quotas d’émissions de GES, mise en place prévu 1 er janvier 2005 pour entreprises du secteur de la production énergétique, industrie manufacturière et services  Se décline en un plan national d’allocation de quotas. En France premier Plan national d’affectation des quotas d’émissions de C02 (PNAQ1) approuvé par la CE le 17 décembre 2004. Période 2008-2012, deuxième plan PNAQ2, baisse de 6% allocations
+2001 Discours Orléans de Chirac puis Sommet de Johannesburg en 2002. 
+•	Quelle place de l’environnement dans la campagne de Chirac en 2002 : du climat ? Changement climatique surreprésenté dans le programme de l’UMP de 2002 (cf. Thèse de Persico)  A vérifier ?
+•	Quelle place de la sécheresse de 2003 ?
+•	En 2002, mood contre écotaxe assez fort, associé aux coalitions rouges-verts, pas de volonté politique entre 2002 et 2004 pour mettre en place écotaxe 
+•	2004 : rapport d’information du Sénat sur la canicule de 2003
+•	
+•	Lancement d’un débat public sur les énergies par Chirac en 2003, participation faible du public
+•	Plan climat 2004, prévision réduction 3% par an.
+•	Thématique importante des biocarburants au début des années 2000
+
+Facteur 4 comme objectif programmatique, apparait dans discours de Chirac et Raffarin. Personnage central de Pierre Radanne, directeur cab adjoint de Voynet puis PR de l’ADEME. Puis rapport pour MEDD et préconisation réduction par 4 émissions pour 2050.
+
+Emergence ADEME comme acteur central politique axée sur sensibilisation et changement mode de vie. 
+Lancement en 2003 de la campagne de sensibilisation « Faisons vite, ca chauffe), budget de 12,5 millions d’euros sur 3 ans : campagnes de publicité à la TV, radio, Internet, actions de terrain
+Le Plan de climat de 2004
+Plan national établi par l’ADEME et le registre d’emissions établi par la Caisse des Dépôts et consignations
+Selon rapport du Sénat du projet de loi de finances 2005 : « Plan Climat 2004 à vocation à se substituer au plan national de lutte contre le changement climatique (PNLCC) de janvier 2000, qui s’était révélé inapplicable car fondé sur 40% sur une écotaxe qui avait été déclarée inconstitutionnelle ». 
+L’objectif du Plan climat de 2004 pour la période 2004-2012 est de se substituer au PNLCC de 2000. Son objectif est celui du facteur 4, c’est-à-dire la baisse des émissions par 4 d’ici 2050. 
+Différents instruments d’incitation fiscales (comme sur les véhicules à faible carbone) et d’informations sont préférées à une taxe. Selon Szarka, la plupart des changements consistent à une amélioration d’instruments existants plutôt de mesures ambitieuses (bounded innovation dynamics). En partie transposition d’engagements européens
+Plan climat de 2004 pour la période 2004-2012 : objectif  de facteur 4, baisse des émissions par 4 d’ici 2050 + différents instruments d’incitations fiscales (pour véhicules à faible carbone) d’informations plutôt que la taxe : labels énergétiques, certificats d’efficiences pour les bâtiments, crédits dont pas mal de transposition d’engagements européens. Selon Szarka, la plupart des changements consistaient à améliorer des instruments existants plutôt que de proposer des mesures ambitieuses (bounded innovation dynamics)
+Certaines cibles sectorielles proviennent d’engagements européens comme sur les biocarburants, la promotion de l’énergie renouvelable ou les labels énergétiques (Bocquillon Evrard 2016)
+Huit plans d’action, 60 mesures, 5 phares, : https://www.senat.fr/rap/a04-076-6/a04-076-615.html
+-	Mesures d’informations : généralisation en 2006 étiquetage énergétique et C02 à 7 classes A/G pour voitures et logement (source Actualisation plan climat 2006 ADEME)
+-	Incitations fiscales : crédits d’impôts de DD pour particuliers, fiscalité, biocarburants
+-	Mise en œuvre marché européen de quotas de C02 en mai 2005
+-	Certificats économie énergie 2006
+-	Plan biocarburants
+-	Etiquette énergie
+-	Ecoconduite 
+-	Campagne de sensibilisation Faisons vite ça chauffe ? Campagne de 4 ans pilotée par l’ADEME lancée le 23 mai 2004, ADEME déclare que « nos comportements quotidiens sont responsables de la moitié des émissions de gaz à effet de serre qui modifient l’atmosphère et le climat
+Actions sur les transports : plan biocarburants (vient également de l’objectif européen de 5,75% d’incorporation en 2010), Etiquette énergie (décret 10 mai 2006)
+Action sur le bâtiment : RT 2005 plus exigente que RT 2000 + Diagnostic de Performance énergétique
+Action sur l’industrie
+La loi POPE déclare le climat comme priorité énergétique nationale, objectif de réduction de 75% des émissions, objectifs d’intensité énergétique,  (-2% an, -2,5% à partir de 2030) + objectifs renouvelables : 10% consommation énergie finale, 21% électricité en 2010. Réaffirmation du facteur 4 et objectif de réduction en moyenne de 3% par an. 
+16 février 2005 : entrée en vigueur du Protocole de Kyoto. 
+Novembre 2005 : premier Rendez vous climat, bilan des actions du plan climat
+Proposition en 2006 d’une taxe carbone aux frontières européennes
+•	Arrêté 10 juillet 2006 : fixation des tarifs de rachat 55 centimes KW pour solaire et 8,2 centime éolien  Boom
+En 2006, l’ADEME évalue à 2 milliards d’euros la contribution annuelles des politique gouvernementales à la lutte contre le changement climatique. Utilise sondage de l’ADEME pour affirmer que un changement de mode de vie est inévitable pour réduire les émissions, mais même pas de modalité inclue sur l’Etat à ce moment là, 
+La politique climatique sous Nicolas Sarkozy
+Le contexte : l’environnement au centre de la campagne
+La campagne présidentielle de 2006 est marquée par une attention inédite aux questions environnementales et surtout au changement climatique. En 2006, plusieurs associations de l’environnement se regroupent dans Alliance Planète pour réaliser une campagne médiatique autour d’un Pacte écologique. La place du changement climatique est accentuée par le rapport du GIEC, son prix Nobel ainsi que celui donné à Al Gore à la sortir du film Inconvenient Truth. 
+Une restructuration organisationnelle et le développement d’une politique climatique autonome
+2007  Création d’un grand ministère de l’Ecologie, développement, aménagement durable  Juppé ministère, deuxième ordre protocolaire, administration 55000 fonctionnaires, fusion services ministères écologie, Equipement, Industrie
+puis l’environnement ça commence à bien faire, échec de la taxe carbone avec censure du conseil constitutionnel
+Grenelle de l’environnement : débat, titre 1 sur le changement climatique
+•	Le paquet énergie climat européen 
+•	La préparation du sommet de Copenhague 
+
+
+La présidence européenne et la négociation du Paquet énergie-climat
+Deuxième semestre 2008 : adoption du paquet européen énergie-climat sous la présidence Française de Nicolas Sarkozy (see Bocquillon 2016) : acceptation  de la France de réduire émissions de 20% en 2020, réduction de 14% dans les secteurs non part de l’ETS et énergie renouvelable dans la consommation à 23% en 2020  Fort leadership français à ce moment
+Loi Grenelle 1
+Adoptée quasiment à l’unanimité au Parlement, principes et objectifs du Grenelle. Décalage entre Grenelle 1 et Grenelle 2 montre bien la problématique du rôle du Parlement pendant le choix des instruments. 
+•	Grenelle 1 : objectifs ambitieux : part des EnR 23% énergie finale consommée en 2020
+
+La Loi Grenelle II portant engagement national pour l’environnement
+Objectif de concrétiser les engagements du Grenelle 1 de l’année passée avec la traduction  obligations/interdictions/permissions  par textes nouveaux ou modifications des codes existants pour les rendre conformes aux engagements retenus/listés par Grenelle 1
+6 chantiers : Bâtiments et urbanisme, transports, énergie-climat, biodiversité, risques santé déchets, gouvernance
+Processus législatif controversé, beaucoup de renoncement à la fin du texte, principales mesures reportées en attendant une mise en œuvre par décrets. 
+201 décrets appliquant la loi 
+Dans le domaine énergie-climat
+-	Schéma régional du climat, de l’air et de l’énergie
+-	Bilans d’émissions de GES à réaliser pour personnes morales de 2014 de plus de 500 personnes + Etat et certaines collectivités
+-	Plan climat-énergie territorial
+-	Pas mal d’affichage environnemental 
+-	Grenelle 2 : durcit procédures constructions éoliennes. 
+-	
+Certaines propositions ne verront finalement pas le jour comme la Contribution climat-énergie (taxe carbone) et l’écotaxe (reportée aux élections). Tentative d’adoption de l’écotaxe par Hollande mais controverse et abandon en 2014, et ensuite taxe  carbone sur l’usage fossile (Contribution Climate énergie adoptée en 2013 discrètement. 
+
+
+Le débat sur la taxe carbone post-grenelle
+-	2009-2010 : proposition taxe carbone suite au Grenelle. Juillet 2009 conférence expert sur contribution climat énergie pour lancer le projet. Censure du Conseil Constitutionnel dans les deux derniers cas en raison de rupture égalité devant impôt et inadéquation mesure aux objectifs. Projet de 2009 = taxe consommation énergie fossile habitat et déplacement automobile. 
+-	Contexte de haut score des verts aux élections européennes Sarkozy nomme Conférence d’experts 2 et 3 juillets 2009, présidence de Rocard et rapport rendu le 28 juillet 2009, proposition d’une Contribution climat-énergie avec montant initial de 32€/tonne CO2 avec augmentation de 5% par an. Annonce le 10 septembre 2009 de Sarkozy de la mise en place pour montant initial de 17€/t à partir 1 janvier 2010  Instauration dans loi de finances puis discuté au Parlement/adopté 18 décembre 2009. 29 décembre 2009, censure du Conseil Constitutionnel. 23 mars Fillon abandonne le projet en disant qu’une taxe doit être européenne pour ne pas plomber compétitivité. 
+
+Analyse également des instruments qui ne sont pas choisis : cas de la Contribution Climat -énergie et l’écotaxe dans Grenelle II puis ensuite Hollande a essayé de reprendre l’écotaxe qui a été abandonnée à l’automne 2014. Mais adoption d’une taxe carbone sur l’usage d’énergie fossile : la Contribution Climat Energie en 2013 mais niveaux bas
+Adoption au conseil européen d’octobre 2014 d’un objectif européen de 40% réduction GHG en 2030, promu par la France et mis en place au niveau domestique avec la loi transition énergétique
+LCTEV remplace le plan climat, juin 2015 après débats : objectif de réduction de 40% GES en 2030, cible de 32% énergie renouvelable, augmentation de la taxe carbone
+2011 : plan national d’adaptation 
+Au final en 2012, France a réussi son objectif de Kyoto avec réduction des émissions de 13% en 2012 mais diffèrent selon le secteur, augmentation dans le transport et résidentiel (voir chiffres Eurostat)
+La politique climatique sous François Hollande
+Les enjeux énergétique et climatique dans la campagne
+•	L’opinion française sur le nucléaire
+•	L’accident de Fukushima donne une saillance inédite à l’enjeu énergétique .  Campagne de 2012, accélère diffusion notion de transition énergétique avec fenêtre opportunité suivant catastrophe du Fukushima dans le contexte de la primaire du PS.  
+•	
+•	 Débat entre Hollande favorable réduction et Royal-Aubry pour sortie programmée. Hollande s’engage réduction nucléaire 50% horizon 2025, 
+Le Débat National sur la transition énergétique (DNTE)
+Lancement en 2013 du débat national sur la transition énergétique (DNTE) à la suite du focusing event de Fukushima. L’idée du débat provient de François Hollande lors des primaires socialistes dans le contexte de Fukushima. Delphine Batho est en charge du DNTE dont l’objectif est de préparer une loi-cadre avec comme ambition une redéfinition de la politique énergétique française
+-	Article de Aykut et Nadaï : rôle des pratiques calculatoires et supports matériels des experts pendant les délibérations   : paradoxe d’une absence de débat des orientations de politiques énergétiques déterminées par le corps des Mines et la mise en débats des enjeux énergétiques par des exercices délibératifs. 
+Soutine pour résolution de l’AN du 4 juin 2013 CCE  Préparation par le comité pour la fiscalité écologique, annoncée le 21 septembre 2013, promulguée 29 décembre 2013 dans le cadre lois de finances 2014, entrée en vigueur 1 avril 2014
+La Loi relative à la transition énergétique et à la croissance verte
+
+•	Loi relative à la transition énergétique et à la croissance verte, plusieurs repoussements, promulguée le 17 août 2015, récit de transition mais en réalité, continuité de la politique énergétique française. Initialement prévue automne 2013
+•	Accord de Paris en 2015 : objectif de limitation de la température global en dessous de 2°C par rapport à l’époque préindustriel et objectif de neutralité carbone à la moitié du siècle
+•	La stratégie nationale bas carbone de 2015
+•	Les NDC de la France
+
+
+
+•	Evaluation de la politique des EnR par la cour des comptes en 2013
+
+
+SNBC 2015, engagement réduction 75% GES H2050
+
+
+
+Politique climatique sous Emmanuel Macron
+Contexte politique : la place des enjeux climats dans la campagne présidentielle
+
+6 juillet 2017 : présentation du plan Climat par Nicolas Hulot : « objectif d’accélérer la mise en œuvre de l’Accord de Paris et de le rendre irréversible. »
+19 novembre 2017 : présentation du paquet solidarité climatique pour les ménages les plus modestes
+12 décembre 2017 : sommet du One Planet Summit organisé par la France
+Loi du 30 décembre 2017 : Fin de la recherche et l’exploitation d’hydrocarbures
+30 mars 2018 : Installation du ComActe : le Comité de l’accélérateur de la transition écologique
+La loi énergie-climat
+D’après le rapport parlementaire d’application de la loi, la loi est passé de 69 articles contre 12 à son dépôt  Appel à des mesures réglementaires d’application (décrets ou arrêtés). Application ralentie par le covid.  
+-	30 avril 2019 : Présentation en conseil des ministres du Projet de loi relatif à l’énergie et au climat par François de Rugy (procédure accélérée)  Objectif de neutralité carbone en 2050, modification d’objectif de politique énergétique de la LTECV
+-	28 juin 2019 : adoption du texte en 1ère lecture, étoffé en commission parlementaire
+-	18 juillet 2019 : adoption en première lecture par le Sénat
+-	26 septembre 2019 : adoption définitive de la loi
+-	7 novembre 2019 : validation Conseil Constitutionnel
+-	8 novembre 2019 : promulgation par PR
+
+Instruments de pilotages inscrits dans la loi  Création du HCC
+Publication au JO 9 novembre Loi énergie climat  Décrète l’urgence écologique et climatique, prévoit atteindre neutralité carbone 2050. 69 articles. Adopté par le Parlement le 26 septembre
+Pour répondre objectifs Accord de Paris : plan climat dévoilé 6/07/2017 : objectif neutralité carbone à horizon 2050 pour contenir réchauffement dessous 2C. 
+Plan climat présenté par Hulot :
+Amélioration pratiques énergétiques : rénovation thermique, développement mobilité propre avec Crit’Air et prime conversion, encouragement auto-conso énergie renouvelable, feuille route économie circulaire
+Neutralité carbone H2050 : interdiction tout projet exploration hydrocarbures, renforcement fiscalité écologiques, SNBC
+
+Le Haut conseil pour le climat : organisme indépendant, avis et recommandations sur mise en œuvre politiques publiques de réduction GES France. Création décret 2019. Rapport consultatif annuel sur la trajectoires des émissions et bonne mise en œuvre mesures +  avis tous les 5 ans sur projets de SNBC et budgets.
+France pas sur trajectoire d’émission de GES compatible avec engagement internationaux, n’engagent pas transformations socio-éco nécessaires pour aller vers neutralité carbone.
+Neutralité carbone techniquement réalisable mais implique transformation profonde économie et société à grande échelle, rythme transformation est insuffisant. 
+1 er budget carbone fixé en 2015 et couvrant 2015-2018 dépassé, réduction de GES seulement 1,1% an en moyenne. 
+Premier rapport souligne fondations à mettre en place pour assurer trajectoire bas-carbone. 
+1. Assurer compatibilité des lois et grands projets nationaux avec SNBC
+2. Renforcer instruments des politiques climatiques (normes et règlementations, taxes, quotas, subventions)
+3. Identifier et mettre en place changements structurels pour préparer économie et société FR à neutralité carbone : mesures actuelles sur réduction marginale émissions. Agir sur urbanisme et aménagement territoire
+4. Assurer une transition juste
+5. Articuler SNBC à toutes les échelles
+6. Evaluer systématiquement l’impact en émissions de GES des politiques et mesures
+7. Renforcer le projet de SNBC révisé
+Accord Paris fournit cadre contraignant engageant Etat sur réduction GES et renforcement de puits de carbone. Entrée en vigueur en 2016 et objectif contenir élévation température planète en dessous 2C par rapport niveaux préindustriels. Renforcer adaptation et rendre flux financiers compatibles avec évolution. Communication tous les 5 ans des plans d’actions
+Plan climat 2017 France s’engage neutralité carbone H2050. Projet de loi relatif énergie climat 2019. 
+
+
+
+
+
+
+

@@ -1,0 +1,51 @@
+---
+title: "EU politicisation"
+editor: visual
+---
+
+The literature on politicization come mostly from the research on the European Union. 
+
+First accounts such as Steenbergen and Scott 2007, De Vries 2007 or Kriesi 2007, van der Eijk and Mark Franklin offer the first empirically studies on the EU politicisation that Hooghe and Marks in 2009 will build a theoretical framework. At this period, they call for a research agenda on european politicisation. For Hooghe and Marks, politicisation means the inclusion of the mass public in the politics of EU with the Maastricht Accords as a starting point. Hooghe and Marks argue that the factors to politicisation are the **constitutional and opportunities for referenda** and the party strategies of radical right and left wing parties to oppose the EU mobilizing euro-sceptic public. Hooghe and Marks also mention factors that **limits politicisation such as internal party disagreement, the need to appear consistent**. 
+
+
+First empirical studies such as De Vries 2007, De Vries and Edvwards 2009, Hooghe and Marks, Kriesi et al 2008, Szecerbiack and Taggart 2008) focuses on eurosceptical parties : from the left or the right. 
+
+At the framework proposed by Hooghe and Marks, Green-Pedersen will respond that we should focus on the incentives that mainstream parties have. He shows for instance that referenda and eurosceptic parties exist in Denmark but there is no politicisation. However, he adopts a restrictive notion of politicisation as only saliency (different party conflict). Green-pedersen aims to challenge the view that the electoral potential and incentives from extreme parties allow to understand politicisation. Green-Pedersen consider the issue of european integration as a **government issue**. He argues that politicisation from mainstream parties depend if the issue offers clear electorally winning position and the extent to which it can be integrated in left-right : but second element not present for climate change right ? 
+
+
+**Factors favorising politicisation**
+
+1. Opportunities for politicisation such as constitutional debates, referendas (De Vries 2009, spillover), critical events, critical juncture that gives opportunities
+
+
+## Political parties
+
+At the center of many theories of politicisation, are political parties and their strategies (see Green-Pedersen 2010, giant)
+2. Challenger parties mobilizing "anti" electorates, party polarisation due to extreme parties (De Vries 2007, De Vries and Edwards 2009, Kriesi 2007, Kriesi et al 2008, globalization cleavage), sleeping giant der Eijk and Franklin 2007, Kriesi 2009, Borzel and Risse 2009
+3. Importance of mainstream parties (Green-Pedersen) and which **issues mainstream parties find it advantageous to focus on** and this depends on coalition and electoral factor. 
+
+- Politicisation depend on framing
+**Factors limiting politicisation**
+
+However, internal disagreement on an issue shoud limit politicization. 
+
+1. Internal party dissent/disagreement/coherence (Aylott 2002, Steenbergen and Scott 2004)
+
+
+```{mermaid}
+flowchart LR
+  A[Mobilization potential]
+  B[Internal agreement]
+  A --> C{Issue mobilization by party}
+  B --> C{Issue mobilization by party}
+  C --> D[Salience]
+  C --> E[Position-taking]
+  C --> F[Framing]
+  D --> G[Politicization]
+  E --> G[Politicization]
+  F --> G[Politicization]
+  
+  
+  
+  
+```

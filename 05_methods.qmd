@@ -2,6 +2,69 @@
 title: "05_methods"
 ---
 
+How to measure political conflict ? We want to measure how political parties have become more distant over time ?
+
+# What we want to measure/operationalize
+
+- Opposition to government climate policies : explicit opposition/critique of what government is doing regarding climate policies
+
+
+## Salience of climate change
+## Distances/positions
+## Actor expansion
+
+We first measure actor expansion as the evolution of the percentage of Mps speaking about climate change. The more Mps speaks about it, the more the conflict extends. It means that either the conflict expand to non-issue specialists, that other issues may be climatized. 
+
+The second measure we develop for actor expansion is the number of different exterior actors that are included in the speech by Mps. And we do this by Named Entity Recognition. 
+
+Distances : text distance between different political parties
+
+
+## Level
+
+S'inspirer déjà de Martin (2011) : possibilité de voir si contenu des questions parlementaires : «Consequently, questions may reveal interests in national and/or international policy or for more parochial, local constituency-oriented issues. » (Martin, 2011, p. 260)
+
+
+
+
+
+# Detecting climate change content
+
+First, we detect whether a document is climate change is related or not. Different methods can be used. 
+
+## Dictionaries methods
+
+Most of the literature using content analysis for analysing climate change content is based on string matching. Usually, scholars use "climate change" and "global warming" and some derivatives such as "greenhouse effect/climate crisis/emergency/catastrophe (Gabbatis 2019). However, this may have really huge problems regarding climate change. 
+
+- Problèmes : pas de prise en compte du contexte,  et aussi ambiguité des climate-related word : climate itself, environment, sustainable (cf. Varini et al 2020)
+- Différent climate dataset qui permettent de palier ce problème : Kolbel et al 2020, Luccioni et al 2020, Varini et al 2020, Bingler et al 2021? Callaghan et al 2021, Wang et al 2021, Freidrich et al 20201 --> Reste complexe car comlpexe, change, souvent ambigu et pas de ressours spécifiques AI
+
+Néanmoins, ces méthodes sont inadaptées pour capturer l'ambiguité et la subtilité de certains mots. 
+
+- Pour la détection du populisme : cf. Bonikowski Luo and Stuhler Politics as usual. Populisme aussi multithématique
+
+## Topic modelling
+
+We could also used topic modelling but it is more for explorative purposes, does not attribute classes, not deductive measure for categories we want to utilise. 
+
+
+## Classification methods
+
+
+
+
+- Luo et al : classifier basé sur BERT
+- ClimateBert : Webesinke et al 2021
+
+
+We then train a supervised machine learning classifier (see. ollion et al ASS). Supervised machine learning allow to combine human interpretation that is more reliable and capture more semantic aspects and scalability. However, it is still more costly in terms of time and can be costly in money if we hire RAs. 
+
+
+1. Sampling
+2. Train
+3. Active learning
+
+
 
 # Embeddings
 

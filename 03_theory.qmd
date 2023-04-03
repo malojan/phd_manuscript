@@ -12,8 +12,29 @@ flowchart LR
   E --> F[Polarization]
 ```
 
+# Valence issues and positional
+
+Valence issues : idea of performance, credit-claiming, problem solving credibility, goal of "importance of climate change widely shared"
+
+Van der Brug 2017 : "most valence issues have ethat character only as long as the issue in framed in **relatively generic term*, while proving inevitably positional as soo as the debate shifts from goal to mean** (dans from issues to gals De sio). Depend of the level of abstraction. 
 
 
+Issue become conflictual because what makes valence issue is performance, credit claiming on agreement --> Turn to positional because performance is contested
+
+--> Research have look to understand why some issues are more valence and more positional rather than others but not why on the same issue, parties change it to positional or valence --> Understood as a party strategy. 
+
+De sio et al : means to identify issues as valence : credibility goal. But debate whether valence/positional is theoretical expectation or something empirical depending on whether the goal is shared among the population. According to them, in saliency theory, actors seek to present their issues as valence and eluding the trade-offs. Really a question of shared-goal
+
+Petrocick in fact introduced a difference between performance-based ownershio and party consistency owenrship. He also majes a different with competence :" being better able than other parties to handle an issue" + "being sincere and committed" : long term ownership. Difference between associative and competence : what we are interested in is competence not associative. 
+
+Van der Burg in its contribution in the Sage Handbook of Electoral Behavior argue that it is an "ambiguous concept". 
+
+But in the case of climate change : disagreement not only appears on the means, it appears on the degree of climate action we should have and on the contestation of performance. 
+
+Looking at Carter et al on climate change, they to distinguish this but they see it as a state of issue competition : positional when different position and valence/consensual when not. But when do parties try to turn an issue which was salient into a positional one ? Lead to formation of positions, when parties have to position themselves, to take a position on a issue when they did not have to take one. 
+
+
+--> When do issues are valence and where do issues are conflictual ? 
 
 :::: {.content-hidden when-format="pdf"}
 ::: {.content-hidden when-format="html"}
@@ -33,3 +54,13 @@ We argue that the political visibility of climate policies costs and benefits ar
 
 :::
 ::::
+
+
+# Hypotheses
+
+## Polarisation hypothesis
+
+Our first hypothesis is descriptive, we want to asses to what extent political parties have become more polarized on climate change. As the climate change is really a complex issue, we do not measure posittions. However, we want to assess whether their speeches and stances on this issues are more and more clearer (see issue evolution theory). 
+
+- Plus on s'éloigne de l'Accord de Paris, puis il est facile de dinstiguer un discours sur le changement climatique d'un parti d'un autre et donc identifier des discours d'un même parti. 
+- Pour ça on peut déjà avoir une mesure telle que Spirling et leur Algorithme avec est-ce qu'un algorithme permet de distinguer les labels de gauche et de droite, et on pourrait aussi imaginer une mesure de variance intra-partisane à partir de ca

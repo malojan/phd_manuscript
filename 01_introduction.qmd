@@ -18,6 +18,24 @@ These are the countries where climate change is the most salient (Eurobarometres
 
 Indeed, institutionnalist accounts of climate policies show that institutions matters : Farstad et Finnegan. 
 
+Dans beaucoup de pays, l'enjeu est arrivé à l'agenda partisan en 2006 dans le cadre du rapport du GIEC, du rapport Stern et du filmm d'Al Gore ensuite nommés prix nobel de la Paix (Farstad).
+
+- Enjeu apparaît aussi à l'agenda des partis britannique à la fin des années 2000 alors que faiblement politisé auparavant
+- Idem en France : voir Persico, voir Halpern
+- Les données de Farstad sur les manifestoes et aussi de Carter sur les programmes dans différents pays européens
 
 :::
 ::::
+
+
+
+<!-- Why it is important !-->
+
+:::: {.content-hidden when-format="pdf"}
+::: {.content-hidden when-format="html"}
+
+If the main obstacles of decarbonization are its politics, need to understand why political parties and mps change their preferences regarding climate change. Given that we know that they can have effects on this. 
+:::
+::::
+
+

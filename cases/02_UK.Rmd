@@ -1,0 +1,52 @@
+---
+title: "02_UK"
+output: html_document
+date: "2022-12-22"
+---
+
+```{r}
+library(manifestoR)
+```
+
+During the 70's, creation of environmental groups inside Labour, Libdem and Conservative Parties [@carter_party_2006] and Libdems formulated first environmental policy in 1982, then mid 80's other parties followed.
+
+End of the 80's period of greening ? Discourse of Thatcher in 1988 Royal Society : cf. Carter 1992, McCormick 1991. 
+
+Le sujet du changement climatique au UK émerge à la fin des années 80 sous Margaret Thatcher qui promeut une action climatique (Mildenberger Carbon Captured, p221, Oshitani 2006) , notamment promouvant science climatique.  : potentiellement pour augmenter son image à l'international + première cible de réduction avec stabilisation 2005 par rapport à 1990. 
+
+But according to Carter, it is the **unprecedented victory of the Green Party in 1989 in the European parliament** election that led the other parties to react and trying to become greener. <!-- Hence, impact of party competition variable, challenger rise !-->
+
+> « The Conservative government published a 1990 white paper, This Common Inheritance, representing the first comprehensive statement on environmental policy by any UK government, and followed within weeks by new Labour and Liberal Democrat documents outlining substantially revised and extended environmental programmes. » ([Carter, 2006, p. 753](zotero://select/library/items/JWM23LXK)) ([pdf](zotero://open-pdf/library/items/2X6U82WK?page=7))
+
+Limited attention to the environment in British manifestoes : unless 1979 for Libdems where grassroot pressure. Then really in 1987 rising and peaked around 1992 around Rio Summit. 
+
+But not necessarily important : cf. Butler and Kavanagh, 1992 : Conservative Party decided not to talk that much during the campaign about environment seeing low salience in public opinion.
+
+
+# Climate politics under Blair
+
+## 1997 elections
+
+- Vice PM Jogn prescott au lendemain de victoire de 1997 : annonce que Labour serait 'greenest government yet' (Carter et Rootes 2001, p 104)
+
+
+> « Mise à part cette volonté de régler le problème de la vache folle, le gouvernement travailliste réélu ne se montre pas particulièrement actif sur le front de l’environnement. Une dimension sort du lot toutefois, confirmée à la fois par l’analyse en composantes principales réalisée dans le Chapitre 5, et près d’une dizaine d’entretiens réalisés au Royaume-Uni. Il s’agit de l’investissement de Tony Blair dans les négociations internationales relatives au changement climatique, à laquelle correspond une relative inactivité au plan national (Harrison et Sundstrom, 2007). » (Persico, 2014, p. 366)
+
+> « De fait, lors de la campagne de 2005, les enjeux relatifs aux négociations internationales en matière climatique dominent le programme de Tony Blair. Comme l’a expliqué Margaret Beckett, « on était concentré sur la dimension internationale du réchauffement climatique et la campagne de 2005 était axée là-dessus. [...] Il nous fallait conserver l’image d’acteurs clés sur ces questions » 235. Selon Michael Jacobs, qui était le conseiller spécial à l’environnement de Gordon Brown quand ce dernier est devenu Premier Ministre, un consensus prévalait sous Tony Blair, selon lequel il n’était pas nécessaire d’être très actif sur le réchauffement climatique, parce que le RoyaumeUni était en ligne par rapport à ses obligations de Kyoto. » (Persico, 2014, p. 367)
+
+
+## The 2001 election
+
+In 2001 : Labour and Tories did not organized any press conferences around environmental issues. Event Tories proposed to  to cut fuel taxes and drop the new Climate Change Levy (Williams Hague, cf. @carter_party_2006). 
+
+Tories in 2001 propose a Emission Trading and want to remove the Climate Change Levy of the Labour. 
+
+@carter_party_2006 shows that this politicization is more important for Libdems than the other parties. Tories while in opposition have largely ignore the issue. 
+
+Importance of environmental salience, according to @carter_party_2006 : between 1992 and 2000 very low salience of environment in polls. Reaction of libdems because competition with green party. 
+
+To explains the limited taking up of environment @carter_party_2006 shows that post-materialism is really limited, suspicious of environmentalism but also experience in governement with tax fuels protest in 2000 : potential costs of implementing environmental policies, in particular regarding climate change.
+
+From 2005, the Conservative Party undertakes an evolution of its party stance on the environment. It is based on a modernisation of Camron to demistify the image of 'nasty party' of the Tories by showing that the pary can achieve a better environmental performance (*valence issue*). Before Cameron, limited interest for the issue : aim to attract voter because everyone one is for environment, attract libdems voters. Hence Cameron talks a lot about environment in the campaign and even go in a norwegian glaciar to observe the effects of climate change. 
+
+
