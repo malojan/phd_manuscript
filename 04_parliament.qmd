@@ -1,0 +1,34 @@
+---
+title: "04_parliament"
+editor: visual
+---
+
+Why parliament ?
+
+We want to observe parliament and why ? What role the parliament plays in politicisation processes ? What we could look otherwise ?
+
+# Why not looking at electoral campaigns ?
+
+-   Broad messages, issue attention maters most
+
+# Why not looking at the media ?
+
+# Why looking at the parliament
+
+-   Because it is the place where positions forms, positions that are then taken up elsewhere
+-   Because it is the place of policy conflict, where political parties talk to each others
+- Communicative function of national parliaments : de Wilde 2014, Auel and Raunio 2014
+
+Do MPs and parties aim to *signal* positions in parliamentary speeches ? That is the theory of Sproksh and Slapin. They argue that parliament is a place where parties communicate to voters. But we can cast doubt on this. At the same time, really symbolic place.
+
+The media report what is happening in parliament when they cover policy, they can report the stances of different actors, they mediate
+
+```{mermaid}
+flowchart LR
+  A[Hard edge] --> B(Round edge)
+  B --> C{Parliament}
+  GOV --> POLICY[Policy]
+  POLICY --> C{Parliament}
+```
+
+# What is the place of parliament in this
