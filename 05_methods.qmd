@@ -4,6 +4,10 @@ title: "05_methods"
 
 How to measure political conflict ? We want to measure how political parties have become more distant over time ?
 
+
+To test our hypothesis, we rely on parliamentary speeches on climate change in 10 european parliaments since the early 2000.
+
+
 # What we want to measure/operationalize
 
 - Opposition to government climate policies : explicit opposition/critique of what government is doing regarding climate policies
@@ -53,7 +57,7 @@ We could also used topic modelling but it is more for explorative purposes, does
 
 
 
-- Luo et al : classifier basé sur BERT
+- Luo et al : classifier basé sur BERT : Certains travaux en NLP ont déjà cherché à détecter des cadrages par rapport au changement climatique. Luo et al par exemple font ce travail en entraînant un classifier BERT sur 56000 articles. Ils ont utilisés le codage d'AMT sur 2000 phrases et ensuite ont prédit le reste avec 75% d'accuracy?
 - ClimateBert : Webesinke et al 2021
 
 
@@ -76,4 +80,8 @@ Different choices have to be made or compared
 - Which words to choose : climate ? 
 - Which words to compare : policy instruments words (taxe, market) or international/level words ?
 - Which window size ? Particularly important element for parliamentary speeches
+
+
+A réflechir aussi pour comprendre l'adoption et le timing de certains frames : c'est notamment possible avec de l'event history analisis. 
+
 
