@@ -1,0 +1,131 @@
+---
+title: "Issue competition"
+---
+
+
+# Issue competition
+
+### Salience theory
+
+- Développement esnsuite études empiriques sur la question à partie du MRG-CMP --> théorie de la saillance, idée de selective emphasis des partis sur les enjeux où ils ont l'avantage car perçus comme les plus compétents. Début également de l'idée d'essayer de le mesurer, de quantifier du texte et voir la place que donne les partis à certains enjeux plutôt que d'autres (expliqé dans Budge 2015)
+
+- Robertson 1976 : Premières études empiriques autour des idées de Stokes qui restait un argument théorique et non pas empirique : travail empirique sur les programmes britanniques entre 1922 et 1974, développement de 22 catégories de politique publique et trouve que peu des phrases codées ont du contenu pro et con mais au contraire mise en avant de l'importance des enjeux, déclarent vouloir y donner une priorité, peu de mention des autres partis mais plutôt **selective emphasis**.. A la base voulait voir convergence des partis et tester hypothèse downsienne mais au final mesure saillance des différentes policy areas. Mais au final mesure de super dimensions Left right déjà à partir d'analyse factoriel. Robertson en vient à la conclusion que partis convergent quand ils pensent que cela peut les faire gagner, faibles marges mais sinon quand large victoire ou défaite possible, reste sur leurs enjeux : par contre quand vote souci stratégique, move to the centre : idée que ce n'est pas nécessairement les enjeux préférés des partis qui leur accorde des votes. 
+- Budge et Farlie 1983 : ambition e généraliser les idées de Robertson aux élections et aux campagnes et voir quels sont les enjeux qui prédominent, tentation de voir les effets de la prédominance de ces enjeux sur le résultat des élections --> Idée que partis sont liés à des enjeux pour le meilleur ou pour le pire. 
+- Budget et Farlie 1977 : extension aux US
+- Budge Robertson et Hearl 1987
+- Budge et al 2001
+- Klingemann Volkens et Bara 2006
+
+- Saliency theories : the interest parties have to politicize issues come from both instrumental and ideologic reasons
+- Issue ownership : political parties are perceived as more competent than others by voters, they have interest to emphasize these issues in electoral competition. Parties seek to build an issue profile, a reputation
+- The prediction of these theories is that parties should have stable and distinct issue profiles
+
+- Petrocik 1996, 2003 à partir des idées de Riker : lié aux théories de vote sur enjeux, hausse volatilité électoral 
+- Petrocik 1996 : US, les party 'own' des enjeux, percu comme plus compétent par les électeurs pour gérer ce problème : health care pour Democrates, sécurités nationale pour Républicains
+- Brouard Grossman et Guinaudeau 2012
+- Différentes acceptations de l'ownership : du point de vue des électeurs, du point de vue des partis, différence associative and competence ownership
+- Spilioteq and Vavreck
+- Green-Pedersen et Blomqvist 2004
+- Holian 2004
+- Walgrave, Lefevere et Nuytemans 2009
+- Walgrave et De Swert 2007
+- Comment les partis se construisent une ownership ? Dans le long terme ? Sur une élection : cf. Budge 2015, voir cette discussion entre issue ownership, et issue linkage : des partis peuvent être associés à un enjeu sans nécessairement vouloir le promouvoir. 
+- Notion d'issue profile ? Réputation ? Compétence ? 
+
+--> Partis rendent saillant enjeux où considérés plus crédibles, compétens et cherchent à ignorer autres enjeux
+
+
+
+- Théorie de la saillance. 
+
+Ce programme de recherche est également lié aux premières tentatives d'analyses de contenu de textes politiques et des premières études empiriques sur le sujet avec le développement du MRG-CMP (Budge 2015). Ils sont les premiers à essayer de mesurer, de quantitifer des enjeux dans du texte pour voir la place que donne les partis à certains enjeux plutôt que d'autres. 
+
+### Riker theory
+
+- Théorie héresthetic et manipulation des enjeux : cf. Riker 1982, 1986, 1996 : l'héréstetique correspond à la capacité stratégique de manipuler les enjeux qui sont à l'agenda : lorsque les partis ont la même position sur un enjeu, ils cherchent à mettre en avant d'autres enjeux (*dispersion principle*). Partis peuvent mettre enavant enjeux où soutien public, adversaire opposé et minoritaire (*dominance principle*)
+
+
+
+### Electoral threat of challenger and niche parties
+
+:::: {.content-hidden when-format="pdf"}
+::: {.content-hidden when-format="html"}
+Théorie de Bonnie Meguid sur immigration/environnement en France et au Royaume-Uni --> Partis cherchent à contester issue ownership : 2005, 2008 : études commencant à s'intéresser à la réaction de partis mainstreams et leurs effets sur le succès des petits partis et par extension montre comment ce que devient un enjeu dépend de la façon dont les autres partis le récupèrent ou non. Théorie influente de Bonnie Meguid en 2005 sur la distinction entre nicher parties et mainstream parties. --> Etude de la réponse des mainstreams aux niches et comment cela affecte le succès électoral des partis de niches. Quelles sont les stratégies des partis mainstreams pour répondre à ca ? Selon elle les partis peuvent être **dismissive** et réduire la saillance de l'enjeu, **accomodative** en adoptant une position similaire, ou **adversarial** en augmentant la saillance de l'enjeu mais en ayant une position différente. Selon elle, la réponse dépend si la menace électorale est posée à un seul parti, si il est opposant ou alors si à tous les ainstrams partis. Idée est que partis mainstreams réagissent pour réduire la menace électoreale. 
+
+**Issue entrepreneurship theory**
+
+
+:::
+::::
+--> Partis peuvent aussi chercher à contester l'ownership et à récupérer les enjeux de leurs adversaires
+
+Selon Meguid 2005, les partis établis ont globalement trois options face à l'introduction de nouveaux enjeux par des partis de niche : 
+ - Ignorance
+ - Accomodation : se rapprocher du parti de niche, idée de contestation de l'ownership
+ - Adversalial stance : politiser l'enjeu mais s'en distinguer. 
+
+
+Les partis parlent également des mêmes enjeux à certains moments car ils sont forcés par les autres à attirer de l'attention aux enjeux de leurs compétiteurs. 
+
+- De Vries and Hobolt
+- Meguid 2005, 2008 
+
+#### Effects of green parties
+
+Part of that literature have investigated the impact of green parties on the politicisation of the environment by mainstream parties. Indeed, while this issue was absent on the political agenda before the 1960's, it has been increasingly taken up by mainstream parties (Carter 2006, Carter 2013, Spoon et al 2012). Cf. Sainteny 2000 on this question in France. Carter 2006 and Gemenis 2010 show that not the case ? 
+
+
+Scholars also suggest that social-democratic parties would have more interest to react to green parties because they are a bigger threat to them than to right-wing parties (Meguid 2008). 
+
+
+
+Conversely, Persico (2014) does not find positif effect of the electoral threat of green parties on next election mainstream environmental salience. He finds a negative and significant effect. Hence, rising green vote share decreases the salience of government parties at the next election. According to the author, this tend to confirm selective emphasis theory, as political parties have interest to highlight different issues rather than taking up the ones of their competitors. 
+
+These differences may be explained by the differences of countries or parties included in the analysis or the type of models that are used. Some use the saillance of the environment and others the vote share. 
+
+:::: {.content-hidden when-format="pdf"}
+::: {.content-hidden when-format="html"}
+
+On this issue, we can also look at Dandoy 2011, and the old work by Rohrschneider 1994 and Kitschelt 1994 qui font déjà l'hypothèse que la gauche serait plus réactive à l'environnement que la droite. 
+:::
+::::
+
+
+The recent literature  on issue competition has also focused on issue expansion from non-mainstream parties (Spoon 2011, Henceroth and Jensen 2018, Spoon and Williams 2020, Spoon and Williams 2022). While small parties are considered as "niche", they also emphasize other issues but which ones ? Spoon and Williams (2020) show for instance that the issue focus of green parties, consideres as issue owners of the environment, have expanded towards the economic issues. Their article show that when unemployment is high, green parties talk more about economic. Hence Spoon et Williams argue that green parties are also vote seeking and not only policy seeking. Non-mainstream parties could then also adopt vote maximizing strategies. Spoon and Williams (2022) move beyond the reaction of mainstream parties to the reaction of non-mainstream to the issue introduction of other mainstream parties. They par
+
+
+Spoon & Williams (2022) vont au delà de la réaction des partis mainstreams aux partis non mainstreams en étudiant la réaction des autres partis non maistreams à l'introduction d'enjeux de partis non mainstreams. Notamment la question de quand est-ce que les partis de droite radicale deviennent "environmental chauvinists" : selon eux, les non-mainstreams partis parlent des enjeux introduits par les autres lorsque ces enjeux sont saillants pour le public et quand leurs électeurs sont en accord sur cet enjeu. Idée de montrer que ces partis aussi sont responsive aux électeurs de façon générale alors que previous recherche pouvait montrer que plus policy seeking. 
+
+
+
+## Desagregate political parties
+
+Inside parties, issues may create three groups : those who advocate for more action, those who advocate not for action and those who do not care, that do not have a clear stance on the matter. 
+
+
+### Issue salience inside parties
+
+**Ennser-Jedenastik et al (2021)** : les stratégies d'emphase des enjeux dépendent de la position des leaders dans le parti. Idée basée sur le fait que les leaders du partis ont des ambitions de carrière (office-seeking) plus que les non leaders plus attachés aux engagements du parti. Les résultats montrent qu'il est plus probable que les leaders du parti s'engagent dans des riding the wave strategy mais pas plu ou moins probable d'adress les owned issues. Les auteurs appelent à *relâcher le postulat de parties-as-unitary-actors*. 
+
+### Personal characteristics
+
+#### Constituency level
+
+
+#### Les caractéristiques personnelles du personnel politique
+
+##### Gender
+
+- Le genre : voir Esther Hataway, toute une littérature sur le genre montrant que femmes se soucient plus du changement climatique que les hommes : mais quelle dependent variable ? Aussi article de Mavisakaylan et Taverdi qui essaient de montrer que de façon comparative, l'augmentation de la représentation parlementaire féminine conduit à des politiques climatiques plus contraignantes
+
+##### Age, generation and cohort
+
+A partir d'une étude des débats sur le changement climatique au Bundestag, Debus et Himmelrath (2022) trouvent que toute chose égale par ailleurs, **les parlementaires plus jeunes parlent plus du changement climatique dans les débats parlementaires que les plus âgés**. L'explication théorique avancée serait que parler de ce sujet permet de renforcer la perception de leur compétence ou celle de leur partie sur un sujet saillant pour les jeunes électeurs. 
+
+##### Education
+
+Educational backround ? Anciens militants des mouvements climats ont aussi investi les parlements (voir Alma Dufour par exemple)
+
+A relier avec toute la littérature sur l'importance des caractéristiques personnelles des législateurs pour expliquer le comportement parlementaire : cf. les travaux de Burden, de Carnes, de Debus. Travaux la plupart du temps liés à la représentation descriptive des femmes, des minorités ethniques ou de la classe ouvrière.? 
+
+
