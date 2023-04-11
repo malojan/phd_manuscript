@@ -1,286 +1,379 @@
 ---
 title: "A conflictual climate ? Political Party's reactions to climate change in Europe"
-
-format:
-  pdf:
-    fontfamily: libertinus
-    fontsize: 12pt
-    header-includes:
-    - \usepackage{setspace}
-    - \linespread{1.5}
-    - \usepackage[a4paper,margin=2cm, bottom=2.5cm, top=2cm]{geometry}
-
+format: html
 number-sections: true
 bibliography: references.bib
-biblio-style: apa.csl
 
 ---
 
+While climate politics
+have long been studied at the international level, we aim to open the
+"black box" of domestic climate politics [@harrison_comparative_2007].
+Cross-cutting nature of climate change, "climatisation" have
+incorporated in new policy areas that affect also what political parties
+have to propose in these fields.
 
-Cross-cutting nature of climate change, "climatisation" have incorporated in new policy areas that affect also what political parties have to propose in these fields. 
+-   Diversification, climatisation, extension des facteurs.
 
-- Diversification, climatisation, extension des facteurs. 
+To sum up, climate politics have long been considered as "consensual",
+valence, where issue salience, ownership and competence matters.
 
-To sum up, climate politics have long been considered as "consensual", valence, where issue salience, ownership and competence matters. 
+The dissertation aims to measure, understand and explain this
+"conflictual turn" in climate politics.
 
-The dissertation aims to measure, understand and explain this "conflictual turn" in climate politics. 
+To what extent climate change has been the object of intensified
+political conflict in Europe ? What are the drivers of this
+politicisation ? More broadly, how, when and why do policy issues become
+conflictual among parties ? Why issues may become more polarized ? How
+an issue become divisive ? Under which conditions a salient issue become
+polarized among different parties ?
 
-To what extent climate change has been the object of intensified political conflict in Europe ? What are the drivers of this politicisation ? More broadly, how, when and why do policy issues become conflictual among parties ? Why issues may become more polarized ? How an issue become divisive ? Under which conditions a salient issue become polarized among different parties ? 
-
-Comparative question ? Why it has been more polarizing in some countries rather than others ? 
+Comparative question ? Why it has been more polarizing in some countries
+rather than others ?
 
 # Literature Review
 
 # 1. What is politicization
 
-Politicization is a multidimensional concept that has been conceptualized in different ways in political science and beyond. 
+Politicization is a multidimensional concept that has been
+conceptualized in different ways in political science and beyond.
 
-
-European integration, increasing politicization arising in the 21th (Börzel and Risse 2009; Kriesi 2009; Schmitter 2009; also
-see e.g. Statham and Trenz 2013; Wilde and Zürn 2012).
-
+European integration, increasing politicization arising in the 21th
+(Börzel and Risse 2009; Kriesi 2009; Schmitter 2009; also see e.g.
+Statham and Trenz 2013; Wilde and Zürn 2012).
 
 Hoeglinger : a process by which a particular political issue enters the
-field of mass politics, namely in which the audience is widened and public
-contestation increases
+field of mass politics, namely in which the audience is widened and
+public contestation increases
 
-Politicization is a multifacet term that have been conceptualized in different ways across the political science litterature (de Wilde and Zurn 2012, Grande and Hutter 2012). Here, I focus on the conceptualization of politicization inspired by the work of Schattschenider (1957), emphasing politicalisation as the expansion of conflict. He identified 'intensity, visibility, direction, and scope'. Following this work, authors such as Kriesi, Hutter and Grande have tried to conceptualized politicization as a multi-dimensional proces with three dimensions : salience, degree of polarization (intensity and direction)
- and scope (number of actors). This approach stresses the importance of political parties. 
- 
-Salience is a necessary condition for political conflict because if no one talks about, there is no polarization. 
- 
-Polazization usually understood at the level of a party system in terms of general ideological diffrences (Dalton 2008, 2009) but can also be understood as the distances/differences of attitudes on a specific issue. 
+Politicization is a multifacet term that have been conceptualized in
+different ways across the political science litterature (de Wilde and
+Zurn 2012, Grande and Hutter 2012). Here, I focus on the
+conceptualization of politicization inspired by the work of
+Schattschenider (1957), emphasing politicalisation as the expansion of
+conflict. He identified 'intensity, visibility, direction, and scope'.
+Following this work, authors such as Kriesi, Hutter and Grande have
+tried to conceptualized politicization as a multi-dimensional proces
+with three dimensions : salience, degree of polarization (intensity and
+direction) and scope (number of actors). This approach stresses the
+importance of political parties.
 
-These different dimensions may be related but according to the authors, they have their own logic. For many, salience is crucial for an issue to be politicize. Green-Pedersen (2010) sees politicization only as a matter of salience. As Schattschneider put it, "visility is a factor in expansing of the scope of conflict". However, salience do not necesarilly lead to conflict (De Wilde 2011, Hoglinger 2012). For Hutter and Grande (2014), it is a necessary but not sufficient condition. 
+Salience is a necessary condition for political conflict because if no
+one talks about, there is no polarization.
 
-Green-Pedersen (2010) in his sleeping giant answer, views politicization only as a matter of salience, what Hutter and Grande (2014) disagree. These composants are not always linked ans should be considered separately. 
+Polazization usually understood at the level of a party system in terms
+of general ideological diffrences (Dalton 2008, 2009) but can also be
+understood as the distances/differences of attitudes on a specific
+issue.
 
-The mere measure of the politicization of an issue such as European integration or immigration raise important academic debates. Building on different literatures, we can identify that scholars differ regarding the emphase they give to either structural factors or strategic actors to explain politicisation. 
+These different dimensions may be related but according to the authors,
+they have their own logic. For many, salience is crucial for an issue to
+be politicize. Green-Pedersen (2010) sees politicization only as a
+matter of salience. As Schattschneider put it, "visility is a factor in
+expansing of the scope of conflict". However, salience do not
+necesarilly lead to conflict (De Wilde 2011, Hoglinger 2012). For Hutter
+and Grande (2014), it is a necessary but not sufficient condition.
 
-:::: {.content-hidden when-format="pdf"}
+Green-Pedersen (2010) in his sleeping giant answer, views politicization
+only as a matter of salience, what Hutter and Grande (2014) disagree.
+These composants are not always linked ans should be considered
+separately.
+
+The mere measure of the politicization of an issue such as European
+integration or immigration raise important academic debates. Building on
+different literatures, we can identify that scholars differ regarding
+the emphase they give to either structural factors or strategic actors
+to explain politicisation.
+
+::: {.content-hidden when-format="pdf"}
 ::: {.content-hidden when-format="html"}
+-   Schmitter 1969 : "process of rise in the convtroversiality of the
+    regional decision-making process"
 
+Hoeglinger 2016, Hooghe and Marks 2009, Hutter and Kriesi 2019, De Wilde
+2011, De Wilde et al 2016, De Wilde and Zurn 2012, Zurn 2019Souvent
+politicisation implique également le public, qui a des attitudes de plus
+en plus définies, voir aussi issue evolution, puisVan der Eijk and
+Franklin 2004
 
-- Schmitter 1969 : "process of rise in the convtroversiality of the regional decision-making process"
+-   Schattschneider 1975 \[1960\] : "nothing attracts a crows as quickly
+    as a fight"
 
+--\> What do schatschneider mean y scope ? Number of actors, coverage. -
+Number of people involved
 
-Hoeglinger 2016, Hooghe and Marks 2009, Hutter and Kriesi 2019, De Wilde 2011, De Wilde et al 2016, De Wilde and Zurn 2012, Zurn 2019Souvent politicisation implique également le public, qui a des attitudes de plus en plus définies, voir aussi issue evolution, puisVan der Eijk and Franklin 2004
+These accounts are not at all exhaustive of how politicization might be
+conceptualized : Palonen, Lagroye, more constructivists approach and not
+necessarily schatscneiderian ones. The "politicization" concept is also
+used by many for individuals by making something political.
 
-
-
-
-- Schattschneider 1975 [1960] : "nothing attracts a crows as quickly as a fight"
-
---> What do schatschneider mean y scope ? Number of actors, coverage. 
-- Number of people involved
-
-
-These accounts are not at all exhaustive of how politicization might be conceptualized : Palonen, Lagroye, more constructivists approach and not necessarily schatscneiderian ones. The "politicization" concept is also used by many for individuals by making something political. 
-
-Other defines it as an activity, as the act of marking an issue as political (Palonen)
+Other defines it as an activity, as the act of marking an issue as
+political (Palonen)
 :::
-::::
+:::
 
 #2. Contextual drivers of politicization
 
-Structural factors are mostly exogeneous to the agency of political parties. They are the structure of opportunities and constraints, the context in wich parties find themselves. 
+Structural factors are mostly exogeneous to the agency of political
+parties. They are the structure of opportunities and constraints, the
+context in wich parties find themselves.
 
-
-
-
-Other perspectives may explain politicization through societal demands express by public opinion or protests. 
+Other perspectives may explain politicization through societal demands
+express by public opinion or protests.
 
 #2.1 Societal developments and RWI
 
-Basic accounts of politicization argue that societal developments such as "real-world" indicators facilitate the politicization of an issue : as problems become more important, they get more attention. 
+Basic accounts of politicization argue that societal developments such
+as "real-world" indicators facilitate the politicization of an issue :
+as problems become more important, they get more attention.
 
 <!-- Real-worlds indicators !-->
 
-Some work shows that the answers to a problem depend in part on what in the literature are called "real-world indicators". The severity of a problem can affect the reactions of political actors. For example, some work on immigration has sought to measure the link between the number of immigrants in a territory and the consideration of immigration by political parties. Similarly, there is a growing literature on the effect of extreme weather events on political and party behavior on the environment. These works postulate that these events increase the visibility of the issue and provide opportunities for parties to politicize them. 
+La politisation d'un enjeu peut d'abord dépendre de développements sociaux mesurés par des "indicateurs du monde réels". Le postulat sous-jacent est qu'à mesure qu'un problème devient plus important, il reçoit plus d'attention. Par exemple, la recherche sur la politisation de l'immigration a cherché à mesurer le lien entre le nombre de migrants sur un territoire et la politisation de l'immigration par les partis politiques  (Van der Brug,
+Fennema et Tillie, 2005 ; Van Der Brug et Van Spanje, 2009 ; Teperoglou
+et Tsatsanis, 2011). De façon similaire, certains travaux ont étudié l'effet des évènements météorologiques extrêmes sur les comportements politiques des citoyens ou des partis politiques sur l'environnement. L'évolution des émissions de gaz à effet de serre à par exemple été utilisée comme mesure de la sévérité du problème du changement climatique pour évaluer son effet sur l'attention des partis au problème (Green-Pedersen et ses potos). L'évolution continue de ces indicateurs ou l'apparition d'évènement focalisant peut ainsi fournir des opportunités de politisation pour différents acteurs. 
 
-Regarding climate change, it can be GHG. Can be continous indicators but also more focusing events. 
+Le contexte économique peut également affecter la politisation de différents enjeux. En effet, lorsque la situation économique est mauvaise, cet enjeu tend à éclipser les autres enjeux. Cela a notamment été montré pour le cas de l'environnement et du climat, où il est souvent considéré qu'il existe un arbitrage (reflété par exemple par les questions de sondage entre environnement et soutien à la croissance économique). L'idée est que plus la situation économique est mauvaise, plus l'arbitrage est élevé. Pourtant, la recherche comparative sur les attitudes climatiques montre une relation négative entre développement économique et concern pour le changement climatique. 
 
-The reactions to an issue depend also to the economic context and how good is the economy. This is particularly relevant for environmental and climate topics as they have been considered as a trade-off in many works, refleting how these questions are asks in surveys and so on. Comparative research on public opinion have shown an potential negative effect with rising economic developmentt. But at the same time, the more bad the economic situation is, the higher are the trade-off associated with. 
+Si ces facteurs peuvent affecter la variation de visibilité des enjeux entre différents pays, ils sont souvent commun pour tous les partis politiques dans un même pays. Par ailleurs, il n'est pas clair comment l'évolution de ces indicateurs conduit à une situation plus conflictuelle, plus polarisante. Par ailleurs, on sait bien que l'intensité des problèmes reflète rarement l'importance de leur prise en charge par les partis politiques. La plupart de ces travaux en sont globalement conscients. 
 
-If these factors affect the visibility and the potential attention an issue can get in the party agenda, and may vary across countries. 
+## Critical events
 
+::: {.content-hidden when-format="html"}
 
-Such accounts can be find in the literature on the politicization of immigration for instance, taking the number of migrants. (Van der Brug, Fennema et
-Tillie, 2005 ; Van Der Brug et Van Spanje, 2009 ; Teperoglou et Tsatsanis, 2011). Focusing events such as 
+Ici il faut bien faire la différence entre évènements critiques institutionnels entraînant une transformation à long terme des termes du débat et un évènement plus focalisant de court-terme. 
 
+Ces évènements rendent les enjeux plus visibles et peuvent conduire à l'intensification de conflits entre acteurs. Selon Isabelle GUinaudeau, l'intégration européenne affecte l'environnement des partis politiques et leurs objectigfs (vote, policy, office.)
 
-Cette hypothèse cependant est limitée, on sait bien que l'intensité des problèmes, mesurés par des indicateurs reflète rarement l'importance de leur prise en charge par les acteurs publics. 
+:::
 
-- "Objective" real-words indicators, whatever that means. 
-
-- In the immigration literature, several authors have try to explain the evolution of politicization by 
-
-More broadly, many accounts of issue politicization include the economic factors and how the state of the economy can affect the way an issue is politicize. When the economic issue is high : competition with others issues.
-
-# 2.2
-
-A large body of literature on politicization also point the importance of historical and critical events in triggering issue politicization (Hutter and Grande 2015, Hutter and Kriesi 2016). For instance, the Maastricht Treaty and the increasing authority transfer from the member states to the European Union as lead to more and more politicisation (De Wilde and Zurn 2012). For Hooghe and Marks (2012), this event has led to a transformation from a permissive consensus to a constraining dissensus. Other events such as the enlargement, deepening of the EU, treaty reforms, referenda create opportunities of politicization by raising the public attention to the issue and leading to the possibilities of different political alternatives to form.
-
-3. Critical events as windows of opportunities for triggering new conflicts
-But differences between spontaneous events : lets say a extreme weather event and critical events that affect issue on the long term such as international treaties
-
-Politicisation processes may be affected by critical events having long-term effects on how the issue is debated. In the EU litterature, politicisation has been explained by the *authority transfer* (Hooghe and Marks 2009, Rauh 2015, Wilde and Zürn, 2012), both the enlargement and deepining of the EU integration, the referendas, conflicts around institutional treaties (Hutter and Kriesi 2019) or the euro crisis (Leupold 2016, Voltolini et al 2021). For the immigration literature : look at the refugee crisis. 
-
-This events make the issues more visibles leading to potential conflicts between actors. 
-
-Dans sa thèse, Isabelle GUinaudeau s'interroger sur la façon dont l'intégration européenne affecte l'environnement des partis. Selon elle, l'intégration européenne affecte les objectifs (vote, policy and office) des partis politiques. 
+La littérature sur la politisation pointe également l'importance d'évènements historiques et critiques, triggering la politisation des enjeux (Hutter and Grande 2015, Hutter and Kriesi 2016). Par exemple, le transfert croissant de l'autorité des Etats membres vers un niveau supranational depuis le traité de Maastricht a conduit à une politisation plus importante de l'Union Européenne (De Wilde and Zurn 2012, Rauh 2015), d'un consensus permissif à un dissensus contraignant (Hooghe and Marks 2012). D'autres évènements tels que les élargissements et approfondissements de l'UE, les réformes des traités ou les réferendums (Hutter and Kriesi 2019), la crise de l'euro (Leupold 2016, Voltolini et al 2021) ont crééer des opportunités de politisation en augmentant l'attention publique de l'enjeu européens et poussant à la création de différentes alternatives politiques de se former. Dans le cas de l'immigration, la crise des réfugiés en 2015 a été identifié comme un catalyseur important dans la politisation de l'enjeu. Ces évènements peuvent ensuite avoir des effets de long terme sur la façon dont l'enjeu est débattu. 
 
 ## 2.2 Public opinion and society demands
 
 <!-- Public opinion !-->
 
-Another bottom-up view is that politicization happens because citizens want it. Hence, public opinion changes can lead to increased attention from policymakers (Stimson, Soroka, Wlezien. )
+Ensuite, une autre vue "bottom-up" de la politisation donne un rôle plus important aux demandes sociales des citoyens, à la fois sous la forme de l'opinion publique ou par les mouvements sociaux. Les changements d'opinion publique sur un enjeu peuvent conduire à une attention croissante des décideurs publiques sur un cet enjeu (Stimson, Soroka, Wlezien). 
 
-2. Public opinion change -> Parties react (but why would public opinion change) and bottom-up processes : civil society demands and protests : in the EU literature, some work in asking whether protest affect the politicisation of European Integration : Della Porta and Caiani 2009, Della Porta and Parks 2018 showing that protest have targeted national governments but also EU institutons (Calossi 2016)
-
-<!-- Social Movements !-->
-
+Les évolutions de l'arène protestataire peuvent aussi contribuer à la politisation des enjeux. Des travaux sur l'UE ont ainsi étudié la façon dont les mouvements sociaux ont affecté la politisation de l'intégration européenne (Della porta and Caiani 2009, Della Porta and Parks 2018, Calossi 2016), notamment en ciblant les gouvernements nationaux et les institutions supranationales. 
 
 ## Political economy, policy feedbacks
+
+Enfin, la politisation des enjeux provient également des politiques publiques et de leurs effets retours. Par leurs différents mécanismes. 
+
+
 # 3 The issue mobilization by parties
 
 ## 3.1 The importance of political parties
-    
-The factors aformentioned do not lead to politicization per se, they have to be articulated and mobilized by political actors that politicized the issue (Beaudonnet and Mérand 2019, (Hooghe and Marks 2009, Schattschneider 1960)) in public debates (Hutter and Grande 2014). Politicization is not only a process but also a strategy of political parties that can take different forms. 
 
-- Facing this opportunities and constraints, parties may react to an issue in different ways. 
+L'ensemble des facteurs mentionnés ci-dessus ne conduisent pas à une politisation automatiquement, ils doivent être articulés et mobilisés par des acteurs politiques qui les politisent dans des débats publics (Beaudonnet et Mérand 2019, Hooghe and Marks 2009, Schattschneider 1960, Hutter and Grande). Ces acteurs jouent un rôle important dans l'évolution du conflit autour des enjeux, ceux-ci gagnant de la pertinence quand un conflit apparait entre les partis avec clarté et que ce conflit devient saillant aux yeux des électeurs (Carmines and Stimson dans issue evolution). La politisation n'est pas seulement un processus mais aussi une stratégie des partis politiques qui peut prendre des formes différentes selon les opportunités et les contraintes auxquelles ils font face. 
 
+## What partis can do regarding issues
 
-Research on polarization of attitudes in the United States also emphasize the role of political elites. POlitical issues gain relevance when a conflict appears among parties and that conflict is salient among voters. Elites have an effect on voters when their positions are clearer (Carmines and Stimson issue evolution. )
+Toute une littérature montre que le sort des enjeux dépend de leur mobilisation par les partis dans la lutte pour la définition de l'agenda (Schattschneider)
 
-But there is still debate on which parties are the more important : 
+Political parties can have different strategies regarding policy issues. 
 
-## 3.2 What parties can do regarding issues
+### Issue emphasis
 
-### 3.2.1 Issue emphasis
-
-First, according to *salience theory*, political parties should politicize the issues that benefit them through issue emphasis. 
+First, according to *salience theory*, political parties should
+politicize the issues that benefit them through issue emphasis.
 
 ### 3.2.2 Position-taking
 
-One of the thing party do is taking positions on different policy issues at displaying them in different arenas : in their manifestoes, in parliament, in the media. 
+Les partis politiques mobilisent également des enjeux en prenant positions sur des enjeux et en affichant ces positions dans leurs programmes, au parlement, dans les médias. La littérature sur la compétition spatiale étudie la façon dont les partis prennent positions. Selon la théorie spatiale, les partis se font compétition en changeant leurs positions, généralement considérés comme une dimension gauche-droite mais aussi sur des enjeux de politique publiques spécifiques (cf. Abou Chadi et Green-Pedersen)
 
-Most of the literature give importance to incentives' structure and party goals such as vote, office power or implementing policies. While most of the spatial literature has focused on which parties positions take, the Phd thesis of Thomas Meyer focuses on how they can take them and what exactly constrain them in position-taking. Changing position may involve some costs that a party want to avoid when they are too high. 
+Le conflit politique peut apparaitre quand les partis changent de position sur un enjeu mais pourquoi changent-ils leurs positions et dans quelles conditions ? 
 
-- Dissenting attitudes (Hoeglinger 2016)
-- Party competition through changing party positions either on left-right scale but also on specific issues (Abou Chadi and Green-Pedersen)
+- Les partis changent de positions quand l'enjeu est saillant (Abou-Chadi and Green Pedersen)
+In the line of Downs, the party competition has also investigated under
+which circumstances political parties change their positions to increase
+their appeals to voters (Adams 2004).
 
-Lot of research on party position change with the idea that polarisation can appears when mainstream parties take an adversarial stance on the issue a challenger has introduced. 
+Aussi réaction au contexte économique : Adams et al 2008 
+
+Ainsi, un enjeu peut devenir conflictuel, polarisant dans différentes situations quand des partis politiques adoptent des dissenting attitudes (Hoeglinger 2016). Tout d'abord quand des partis établis réagissent de façon adversariale à l'introduction d'un enjeu par un de leur compétiteur (Meguid 2005). Egalement quand un challenger adopte une position différente pour briser le status quo et gagner des voix, c'est la thèse du sleeping giant : adoption d'une position dissidente pour gagner des voix qui cutt-across. 
+
+What does it mean to change positions ? 
+
+As Meyer and Wagner have investigated in different papers, rather than
+purely moving in spatial terms, political parties could rather alter the
+salience of their positions and to be perceived as changing even if they
+actually do not (cf. van der Brug 2004 sur issue ownership, Giebler,
+Meyer and Wagner 2021, Meyer and wagner 2020). Wagner and Meyer 2023
+hence shows that the changing emphasis on some issues alter the genereal
+perception of the ideological positionning of the party by voters. But
+these accounts are more to explain how political parties are perceived
+to be moving on a left-right ideological dimension. Not sure how it
+could help us
+
+One of the question is what we do not see polarisation before : maybe
+because
+
+1.  Parties did not have different political positions
+2.  Parties had different positions but had bluring strategies or
+    adressing different audiences
+3.  Parties had different positions but not that intense (see
+    Rabinowitz, see Meyer and Wagner) Here, we can also inspire us from
+    Rabinowitz et al and their directional model. People, and political
+    parties do not necesarilly position themselves by moving in a
+    spatial term but stressing their positions with higher intensity.
+    Intensity of their positions.
+    
+Conflict as differenciation, but conflict also as backlash.
+
+Do parties have changed their positions ? Not really but they haven
+taken positions more clearly, they have started to takemore precised
+positions
+
+Literature on policy shifts ; Groffman 2004, Hooghe and Marks 2018,
+Hooghe et al 2002, Marks and Wilson 2000, Marks et al 2002, De Sio and
+Weber 2004
+
+-   Constraints on party policy change : organization, party size a
+-   But size is important, according to Abou-Chadi, it is the most
+    important factor
+    
+Les travaux de ce champ de recherche montrent notamment qu'un des principaux facteur de variation dans le changement de position des partis est leur taille (Abou-Chadi). 
+
+
+
+La littérature montre comment les partis politiques peuvent changer de positions selon les incitations et leurs différents objectifs tels que vote office ou policy. 
+
+Des travaux plus récents ont également cherché à comprendre comment les partis changent de positions et quelles sont les contraintes auxquelles ils font face dans le *position-taking*. En effet, changer de position peut impliquer des coûts que le parti veut éviter quand ils sont trop élevés (Meyer 2013). This literature also highlight how certain factors such as the party reputation or organization limit their ability to change their positions (Meyer 2013, Fernandez Vasquez 2019, Lupu 2014).
 
 ### 3.3.3 Framing
 
-- Some part of the issues, policy justifications (Field and Hamman 2015)
+-   Some part of the issues, policy justifications (Field and Hamman
+    2015)
 
-Research on the politicization of European Union also show that conflicts have arisen with specific frames. Hutter and Grande (2014) make the hypothesis that the politicization of the EU is the product of the icnreasing of cultral and identity-related frames. Hence politicization (and polarization) may arise because more distinct framing of an issue arise. 
+Research on the politicization of European Union also show that
+conflicts have arisen with specific frames. Hutter and Grande (2014)
+make the hypothesis that the politicization of the EU is the product of
+the icnreasing of cultral and identity-related frames. Hence
+politicization (and polarization) may arise because more distinct
+framing of an issue arise.
 
-## 3.3 How different parties react to new policy issues ? 
+## 3.3 How different parties react to new policy issues ?
 
 ### 3.3.1 Issue profile and ideology
 
 ### 3.3.4 Other parties and system-agendas
 
-However, empirical research shows that political parties tend more to converge than avoid each others. Scholars have identify that there are convergence, trepassing, overlap etc between the issues that parties raised (Uptake Sulkin 2005, issue convergence Amoros et Puy 2013, Damore 2005 Sigelman et Buell 2004, issue trepassing (Damore 2004, Norpoth et Buchana 1992, Sides 2006, reen-pedersen 2007, Green-Pedersen et Mortensen 2011, cf aussi Grossman et Guinaudeau).  Parties do not always have the capacity to emphasize only the issue they prefer in political competition. They also have to respond to the party-system agenda. When issues are set at the party-system agenda, it is hard for parties to avoid them (Pedersen et Mortensen 2011)
+However, empirical research shows that political parties tend more to
+converge than avoid each others. Scholars have identify that there are
+convergence, trepassing, overlap etc between the issues that parties
+raised (Uptake Sulkin 2005, issue convergence Amoros et Puy 2013, Damore
+2005 Sigelman et Buell 2004, issue trepassing (Damore 2004, Norpoth et
+Buchana 1992, Sides 2006, reen-pedersen 2007, Green-Pedersen et
+Mortensen 2011, cf aussi Grossman et Guinaudeau). Parties do not always
+have the capacity to emphasize only the issue they prefer in political
+competition. They also have to respond to the party-system agenda. When
+issues are set at the party-system agenda, it is hard for parties to
+avoid them (Pedersen et Mortensen 2011)
 
-### 3.3.2 Party position in the party system
+### 3.3.2 Party position and size in the party system
 
-- Challenger vs mainstream parties
-- Party size
-- Issue entrepeneurship theory (Vries and Hobolt 2020), and sleeping giant
+<!-- Ici travaux visant à comprendre politisation d'un enjeux à partir des interactions des partis dans la compétition électorale !-->
 
-In the issue entrepreneursrhip theory, **challengers** have incentives to mobilize new issues and politicize them and dimensions of conflict to mobilize new voters. Challengers parties could then differenciate themselves and pose an electoral threat to mainstream parties (de Vries and Hobolt 2012, De Vries 2015). Two scholars have both work a lot on the EU. De Vries on his seminal article on the sleeping giant argue that challengers parties have incentive to politicize the European Integration issue because it creates divisions across party lines, it has a potential. 
+Pour comprendre la variation de politisation d'enjeux entre partis, la principale emphase a été mis sur leur position dans le système partisan à partir de plusieurs distinctions entre niche et mainstream ou challenger et mainstream. La taille du parti et son expérience de gouvernement sont des facteurs importants pour comprendre comment les partis politisent des enjeux. Différence entre ceux qui mettent l'accent sur les niche/challengers et ceux qui mettent l'accent sur les partis mainstreams. On retrouve àa aussi dans l'idée d'issue evolution comme "redistribution of party support associated with the displacement of one party conflict by another". 
+
+Selon ces perspectives, les transformations de la prise en compte des enjeux viendrait d'entrepreneurs d'enjeux en position désavantageuse dans la compétition partisane (*challengers*) qui chercheraient à introduire de nouveaux enjeux pour que les autres partis les reprennent [@vries_political_2020, @hobolt_issue_2015, cf. aussi Riker]. Hobolt et de Vries défendent que "When parties are losers of the main conflict dimension, they have a powerful incentive to promote new issues to improve their electoral standing". Seulement les perdants de la compétition politique ont intérêt à introduire de nouveaux enjeux tels que l'immigration, l'environnement ou l'intégration européenne qui ne s'intègrent pas bien dans les lignes existantes de la compétition politique reposant principalement sur une division gauche-droite. Ces entrepreneurs d'enjeux peuvent ainsi choisir un enjeu en fonction de la division interne du parti sur ce sujet et la distance de l'électeur médian sur cet enjeu. C'est en ligne avec la théorie de la manipulation des enjeux de Riker insistant sur le fait que seuls les perdants ont intérêt à manipuler l'agenda. L'idée ici est donc de chercher à se différencier. Ainsi dans son article sur le sleeping giant, de Vries montre que les partis challengers ont intérêt à politiser l'intégration européenne car il créé des divisions au sein des partis et à un potentiel de mobilisation électorale. 
+Radical Right parties have been for instance identified as the main
+driver of the politicisation of the European integration by raising the
+salience of the issue, adopting eurosceptic positions (Kriesi et al
+2012, Hutter and Grande 2014, Hutter and Kriesi 2016)
+
+<!-- De Vries et Hobolt cherchent à appliquer la thèse de l'issue evolution de Carmines et Stimson à des systèmes multipartisans -->
+
+A priori, les partis mainstreams n'ont ni intérêt à introduire des enjeux, ni à répondre à l'introduction de ceux de leurs compétiteurs. En effet, l'introduction de nouveaux enjeux pourrait être coûteux politiquement par l'aliénation d'électeurs ou de partenaires de coalitions.  
+
+Ils devraient aussi théoriquement éviter un nouvel enjeu car celui-ci ne s'inscrit pas bien dans le conflit dominant gauche-droite et devrait donc chercher à en minimiser l'importance. Ainsi, plusieurs travaux montrent que le principal facteur influencant la réaction des partis mainstreams à l'introduction d'un nouveau enjeu est la menace électorale posée par le parti de niche (Meguid, mais aussi Hobolt et Spoon sur going green). 
+
+Plutôt que de mettre l'accent sur les partis challengers, d'autres mettent plutôt l'accent sur les réactions d'un parti mainstream. C'est notamment l'argument développé dans le dernier livre de Green-Pedersen que l'évolution des enjeux dépend principalement de la décision des mainstream parties d'y répondre, qui dépend de leurs incitations à la fois électorales et de coalition.
+
+Les incitations de coalitions affectent la façon dont les partis vont décider de reprendre ou non les enjeux de leurs compétiteurs (cf. Bale 2002, @green_pedersen_reshaping_2019), aussi travaux de Green-Pedersen sur la politisation de l'immigration. Il défend notamment que quand l'immigration est saillante, les partis de centre droit ont des incitations différentes avec les coalitions de partis de droite radicale et les partis centriste. 
+
+Sur ce point, il existe une littérature très conséquente sur la façon dont le succès de la droite radicale et l'importance des réactions des partis mainstream à 
+<!-- Si l'argument est similaire, Meguid et Hobolt and De Vries diffèrent néanmoins dans leur conceptualisation du perdant. La première parle de parti de niche avec un critère d'enjeu alors que les secondes insiste sur l'expérience d'une participation au gouvernement !-->
 
 
-Radical Right parties have been for instance identified as the main driver of the politicisation of the European integration by raising the salience of the issue, adopting eurosceptic positions (Kriesi et al 2012, Hutter and Grande 2014, Hutter and Kriesi 2016)
-:::: {.content-hidden when-format="pdf"}
+:::: {.content-hidden when-format="pdf"} 
 ::: {.content-hidden when-format="html"}
 
-Im not sur how the sleeping giant thesis could be relevant for climate change, more realignement on left-right after having been more consensual.
+Im not sur how the sleeping giant thesis could be relevant for climate
+change, more realignement on left-right after having been more
+consensual.
 
-Also we can extend the discussion on issue ownership, according to walgrave et al, it has different component, if greens are more associated and have reputation on the environment. Government parties may have tried to appear has the more eing able to deal with an issue. Beaucse the greens are not generally in government any way. 
-:::
+Also we can extend the discussion on issue ownership, according to
+walgrave et al, it has different component, if greens are more
+associated and have reputation on the environmenft. Government parties
+may have tried to appear has the more eing able to deal with an issue.
+Beaucse the greens are not generally in government any way. 
+
+
+::: 
 ::::
 
 ### 3.3.2 Party status
 
+Plutôt que d'étudier les dynamiques entre niche et partis mainstream, d'autres travaux sur la compétition sur enjeux se sont plutôt concentrés sur les interactions entre partis d'oppositions et partis au gouvernement. En effet, dans les démocraties parlementaires, le conflit politique s'exprime à travers des dynamiques entre gouvernement et opposition [@vliegenthart_content_2011, Slapin and Proksh]. L'opposition peut exprimer son désaccord au gouvernement à la fois en contrôlant ses actions et en présentant des solutions alternatives [Dahl ?]. D'après @green-pedersen_growing_2007-1, les activités parlementaires ont été utilisés de façon croissante comme un outil dans la compétition partisane. Les discours et questions parlementaires peuvent être utilisés stratégiquement pour mettre des enjeux à l'agenda et renforcer une réputation à gérer certains enjeux [@pedersen_growing_2007 ; @otjes_parliamentazry_2018 ; @borghetto_agenda_2018]. Le contenu en termes d'enjeux de ces activités reflète les priorités des partis politiques [@vligenthart_content_2011].  En effet, les partis tendent à chercher à mettre en avant au parlement les enjeux qu'ils mettent déjà le plus en avant dans leurs programmes (Phd Louwerse, aussi nouveau article dans Legislative Studies Quartyerly sur les discours parlementaires, Borghetto et Russo, travaux qui parlent de mandat, voir aussi les travaux de Guinaudeau et Grossman sur l'agenda-setting au parlement). 
+
+L'argument principal avancé dans cette littérature est que l'appartenance à la majorité ou à l'opposition fournit des incitations de politisation d'enjeux très différentes. Ils ont par conséquent un usage des activités parlementaires différent. Les membres de l'oppositions cherchent à critiquer le gouvernement sur ces politiques, à le mettre en difficulté [@vliegenthart_content_2011] tandis que ceux de la majorité peuvent chercher à "claim credit" sur les actions du gouvernement. 
+
+
 ### 3.3.2 Internal divides and party politics
 
-Political paties are not unified actors and the level of agreement inside a party affect their party strategies and the incentives they have to politicize issues. 
+Political paties are not unified actors and the level of agreement
+inside a party affect their party strategies and the incentives they
+have to politicize issues.
 
-Mainsteam parties have incentives to depoliticize, to de-emphasize an issue to avoid internal conflict : see the Eu case. 
+Mainsteam parties have incentives to depoliticize, to de-emphasize an
+issue to avoid internal conflict : see the Eu case.
 
-
-
-### Conflict through position-taking
-
-
-
-Becoming conflictual involve that actors become more increasingly distinct on what they propose, that they differ. But why should they become increasingly distinct ? >ho have incentives to change the status quoi ? 
-
-Valence scholars have argued that competition was shifting from positional disagreemnt to competition on perception of performance (Green 2007, Green and Hobolt 2008)
+3.4 Missing mechanisms on what makes an issue turn positional 3.5 What
+is the government doing 3.6 Issue characteristics
 
 
-In the line of Downs, the party competition has also investigated under which circumstances political parties change their positions to increase their appeals to voters (Adams 2004). 
+where does the mobilization potential come from ?
 
-This literature also highlight how certain factors such as the party reputation or organization limit their ability to change their positions (Meyer 2013, Fernandez Vasquez 2019, Lupu 2014). 
+-   Policy costs
+-   Climate inaction
+-   Literature on party comeptition : mainstream parties have no
+    incentives to introduce new issues but we see that mainstream
+    parties have clear incentives to do se when in government
+-   Many right-wing parties have emphasize climate change before when in
+    government.
+-   Claiming leadership
 
-
-As Meyer and Wagner have investigated in different papers, rather than purely moving in spatial terms, political parties could rather alter the salience of their positions and to be perceived as changing even if they actually do not (cf. van der Brug 2004 sur issue ownership, Giebler, Meyer and Wagner 2021, Meyer and wagner 2020). Wagner and Meyer 2023 hence shows that the changing emphasis on some issues alter the genereal perception of the ideological positionning of the party by voters. But these accounts are more to explain how political parties are perceived to be moving on a left-right ideological dimension. Not sure how it could help us 
-
-Political conflict could appear when political parties take different political positions on the same issue. But why would they change their positions ? 
-
-- Abou-chadi and green-pedersen : do parties whange their positions when issue is salient 
-
-
-- But size is important, according to Abou-Chadi, it is the most important factor
-
-One of the question is what we do not see polarisation before : maybe because
-
-1. Parties did not have different political positions
-2. Parties had different positions but had bluring strategies or adressing different audiences
-3. Parties had different positions but not that intense (see Rabinowitz, see Meyer and Wagner)
-Here, we can also inspire us from Rabinowitz et al and their directional model. People, and political parties do not necesarilly position themselves by moving in a spatial term but stressing their positions with higher intensity. Intensity of their positions. 
-
-
-Do parties have changed their positions ? Not really but they haven taken positions more clearly, they have started to takemore precised positions
-
-Literature on policy shifts ; Groffman 2004, Hooghe and Marks 2018, Hooghe et al 2002, Marks and Wilson 2000, Marks et al 2002, De Sio and Weber 2004
-
-
-- Constraints on party policy change : organization, party size a
-
-Conflict as differenciation, but conflict also as backlash. 
-
-However, even though these research provides important insight, it is still to be understood how issues may be transformed from valence to conflictual issues. How positions forms, this is related to the questions of why;
-
-
-3.4 Missing mechanisms on what makes an issue turn positional
-        3.5 What is the government doing
-        3.6 Issue characteristics
-        
-where does the mobilization potential come from ? 
-
-- Policy costs
-- Climate inaction
-- Literature on party comeptition : mainstream parties have no incentives to introduce new issues but we see that mainstream parties have clear incentives to do se when in government
-- Many right-wing parties have emphasize climate change before when in government. 
-- Claiming leadership
-    
-Hence we talk of more and more things when we talk about climate change so it become also easier for political parties to reframe-it according to their own prefered issues. 
+Hence we talk of more and more things when we talk about climate change
+so it become also easier for political parties to reframe-it according
+to their own prefered issues.
 
 
 
-### What about issue characteristics ? 
 
-The limits of the literature on issue competition is that if they recognise the importance of issue caracteristics, they do not consider how these caracteristics evolve and how it changes the incentives for political parties to. The only indicator that they consider is how the severity of the problem affect the incentives of political parties to adress it. 
+However, even though these research provides important insight, it is
+still to be understood how issues may be transformed from valence to
+conflictual issues. How positions forms, this is related to the
+questions of why;
 
-- Distributive issues : some are more distributive than others in terms of how they allocate costs and benefits
-Issus characteristics evolution, do not articulate with wider context
+Valence scholars have argued that competition was shifting from
+positional disagreemnt to competition on perception of performance
+(Green 2007, Green and Hobolt 2008)
 
+### What about issue characteristics ?
+
+The limits of the literature on issue competition is that if they
+recognise the importance of issue caracteristics, they do not consider
+how these caracteristics evolve and how it changes the incentives for
+political parties to. The only indicator that they consider is how the
+severity of the problem affect the incentives of political parties to
+adress it.
+
+-   Distributive issues : some are more distributive than others in
+    terms of how they allocate costs and benefits Issus characteristics
+    evolution, do not articulate with wider context
 
 ```{mermaid}
 flowchart LR
@@ -301,216 +394,375 @@ Protest[Protest] --> Opp
 ```
 
 
-# 4. A Theory of issue politicization
 
-Problem of existing accounts are specific to the EU issue for instance, or immigration to a lesser extent. 
-
-When politicizing climate change, political parties try to intensify/dampen controversies over this issues (Hutter Politicizing Europe in European elections) : take adversarial stances. 
 
 ## Valence and positional issues
 
-The question of consensus and conflict of issues refers in the literature of partisan competition to their nature of valence or position. However, this literature suffers from significant **conceptual ambiguity** (Persico and Guinaudeau). While these fields of research have developed as quite distinct, attempts to reconcile them have been made in the last fifteen years or so. In terms of measurements, CHES researchers have for example included both position and salience in their surveys. Other authors may have sought to measure valence or positional issues in the CMP [Franzman, Keizer] : aussi regarder du côté de Rabinowitz 1999 spatiale et saillance, De SIo 2010, Gruber 2014, Persico et Guinaudeau 2011, 2012, 2013.
+The question of consensus and conflict of issues refers in the
+literature of partisan competition to their nature of valence or
+position. However, this literature suffers from significant **conceptual
+ambiguity** (Persico and Guinaudeau). While these fields of research
+have developed as quite distinct, attempts to reconcile them have been
+made in the last fifteen years or so. In terms of measurements, CHES
+researchers have for example included both position and salience in
+their surveys. Other authors may have sought to measure valence or
+positional issues in the CMP \[Franzman, Keizer\] : aussi regarder du
+côté de Rabinowitz 1999 spatiale et saillance, De SIo 2010, Gruber 2014,
+Persico et Guinaudeau 2011, 2012, 2013.
 
-Researchs aims to evaluate the nature of issues in different elections. 
+Researchs aims to evaluate the nature of issues in different elections.
 
-
-Understanding what makes an initially consensual issues more conflictual for political parties lead to the debate on valence on positional issues. 
+Understanding what makes an initially consensual issues more conflictual
+for political parties lead to the debate on valence on positional
+issues.
 
 ### Valence issues and consensual competition
 
-On the potential growing relevance of valence issues : see Green 2007., Clark et al 2004. 
+On the potential growing relevance of valence issues : see Green 2007.,
+Clark et al 2004.
 
-Valence issues : when parties broadly agree on the goal and they compete in elections over the perception of their competence/ability to deliver on it. 
+Valence issues : when parties broadly agree on the goal and they compete
+in elections over the perception of their competence/ability to deliver
+on it.
 
+Claim leadership on a goal and avoid general costs : try to fit as
+valence. But positional as the discussion turn to means.
 
-Claim leadership on a goal and avoid general costs : try to fit as valence. But positional as the discussion turn to means. 
+Double movements of the capacities of government parties to claim credit
+and to avoid blame. When government parties can claim credit on a issue
+and nobody can contest it, it is hard for competitors to contest it and
+they would rather shut up.
 
-Double movements of the capacities of government parties to claim credit and to avoid blame. When government parties can claim credit on a issue and nobody can contest it, it is hard for competitors to contest it and they would rather shut up. 
+Persico/Guinaudeau : consensual competition associated with
+nation-general interest, wide cohesion around a position. According to
+them, government parties have more incentives to consensual competition.
+On the others hands challengers parties can radicalize their positions
+to contest the response of mainstream parties.
 
-Persico/Guinaudeau : consensual competition associated with nation-general interest, wide cohesion around a position. According to them, government parties have more incentives to consensual competition. On the others hands challengers parties can radicalize their positions to contest the response of mainstream parties. 
+Government try to privatize conflict and opposition try to socialize
+conflict.
 
-Government try to privatize conflict and opposition try to socialize conflict. 
+On issue ownership : important read from Walgrave et al, other parties
+cannot really contest the associative issue ownership of parties that
+own the issue but by actively communcating on it can turn the competence
+advantage (walgrave et al 2009).
 
+On valence issues, government parties can try to build a image of
+competence issue ownership. Issue become conflictual because what makes
+valence issue is performance, credit claiming on agreement --\> Turn to
+positional because performance is contested. - Parties focus on goals -
+Parties avoid the topic when they are not considered as performant
 
-On issue ownership : important read from Walgrave et al, other parties cannot really contest the associative issue ownership of parties that own the issue but by actively communcating on it can turn the competence advantage (walgrave et al 2009). 
+Valence issues are intrinsequely associated with the concept of issue
+ownership Valence issues : idea of performance, credit-claiming, problem
+solving credibility, goal of "importance of climate change widely
+shared".
 
-On valence issues, government parties can try to build a image of competence issue ownership. Issue become conflictual because what makes valence issue is performance, credit claiming on agreement --> Turn to positional because performance is contested. - Parties focus on goals
-- Parties avoid the topic when they are not considered as performant
+```         
+        - Framing issues as valence or positional is a strategy in itself (De Sio and Franklin)
+        
+```
 
-Valence issues are intrinsequely associated with the concept of issue ownership 
-Valence issues : idea of performance, credit-claiming, problem solving credibility, goal of "importance of climate change widely shared". 
+Petrocick in fact introduced a difference between performance-based
+ownershio and party consistency owenrship. He also majes a different
+with competence :" being better able than other parties to handle an
+issue" + "being sincere and committed" : long term ownership. Difference
+between associative and competence : what we are interested in is
+competence not associative.
 
-            - Framing issues as valence or positional is a strategy in itself (De Sio and Franklin)
-            
-Petrocick in fact introduced a difference between performance-based ownershio and party consistency owenrship. He also majes a different with competence :" being better able than other parties to handle an issue" + "being sincere and committed" : long term ownership. Difference between associative and competence : what we are interested in is competence not associative. 
+--\> Research have look to understand why some issues are more valence
+and more positional rather than others but not why on the same issue,
+parties change it to positional or valence --\> Understood as a party
+strategy.
 
+Van der Burg in its contribution in the Sage Handbook of Electoral
+Behavior argue that it is an "ambiguous concept". --\> When do issues
+are valence and where do issues are conflictual ?
 
---> Research have look to understand why some issues are more valence and more positional rather than others but not why on the same issue, parties change it to positional or valence --> Understood as a party strategy. 
+If important debates on what makes an certain issue more valence and
+more position that others, less is known about how a valence issue turn
+to a more positioning one. As others have argued, issues are not by
+nature valence or position but are framed is such terms by parties. In
+certain circumstances, parties have incentives to frame an issue as
+consensual, and other as positional : lead to Schattscneider : do they
+want to privatize the conflict or do they want to socialize the
+conflict.
 
-Van der Burg in its contribution in the Sage Handbook of Electoral Behavior argue that it is an "ambiguous concept". 
---> When do issues are valence and where do issues are conflictual ? 
+Persico/Guinaudeau : distinction entre consensus et issue ownership
+issues même si dans la littérature valence issues sont associées soit au
+consensus, soit à l'ownership.
 
+De sio et al : means to identify issues as valence : credibility goal.
+But debate whether valence/positional is theoretical expectation or
+something empirical depending on whether the goal is shared among the
+population. According to them, in saliency theory, actors seek to
+present their issues as valence and eluding the trade-offs. Really a
+question of shared-goal
 
-If important debates on what makes an certain issue more valence and more position that others, less is known about how a valence issue turn to a more positioning one. As others have argued, issues are not by nature valence or position but are framed is such terms by parties. In certain circumstances, parties have incentives to frame an issue as consensual, and other as positional : lead to Schattscneider : do they want to privatize the conflict or do they want to socialize the conflict. 
+De Sio : not clear goals because goals become different ?
 
-Persico/Guinaudeau : distinction entre consensus et issue ownership issues même si dans la littérature valence issues sont associées soit au consensus, soit à l'ownership. 
+Hence, valence or position depends on the level of abstraction on which
+an issue is considered (de sio et Lachat). Indeed, Van der Brug (2017)
+argues that "most valence issues have ethat character only as long as
+the issue in framed in \*\*relatively generic term\*, while proving
+inevitably positional as soo as the debate shifts from goal to mean\*\*
 
-De sio et al : means to identify issues as valence : credibility goal. But debate whether valence/positional is theoretical expectation or something empirical depending on whether the goal is shared among the population. According to them, in saliency theory, actors seek to present their issues as valence and eluding the trade-offs. Really a question of shared-goal
+From this debates we can argue that issues may transfrom from valence to
+position when :
 
-De Sio : not clear goals because goals become different ? 
+-   The debate shits from goal to mean, diminish the level of
+    abstraction
+-   One goal to many goals
+-   Different frames
 
-Hence, valence or position depends on the level of abstraction on which an issue is considered (de sio et Lachat). Indeed, Van der Brug (2017) argues that  "most valence issues have ethat character only as long as the issue in framed in **relatively generic term*, while proving inevitably positional as soo as the debate shifts from goal to mean**
+### Why political parties whould not go to conflict ?
 
+-   Useful distinction between consensual and issue ownership : issue
+    ownership when one, consensual issue when several, proprietal.
+    Guinaudeau and Persico also argues that proprietal competition is
+    rather exceptional and consensus and competition is rather the same.
+    Here we talk about the structure of the competition rather than the
+    nature of the issue ?
+-   Issue owners competence, performance
 
-From this debates we can argue that issues may transfrom from valence to position when : 
+When there is no incentives, no potential for mobilisation to adopt a
+more strong position.
 
-- The debate shits from goal to mean, diminish the level of abstraction
-- One goal to many goals
-- Different frames
+### Why would political parties go to conflict ?
 
-### Why political parties whould not go to conflict ? 
+## How conflict is created ?
 
-- Useful distinction between consensual and issue ownership : issue ownership when one, consensual issue when several, proprietal. Guinaudeau and Persico also argues that proprietal competition is rather exceptional and consensus and competition is rather the same. Here we talk about the structure of the competition rather than the nature of the issue ? 
-- Issue owners competence, performance
+-   Definition of alternatives Conflict, when there are more
+    "competition".
 
-When there is no incentives, no potential for mobilisation to adopt a more strong position. 
+-   Opposition : blame the government for bad performance regarding
+    engative indicators (Seeberg et al)
 
-### Why would political parties go to conflict ? 
+-   Potential of mobilization
 
+-   Exemple in the literature is European Integration where it was
+    really marked by a consensus and has become conflictual (see Green
+    2007, Persico et Guinaudeau aussi pour nuancer)
 
-## How conflict is created ? 
+-   Parce que les partis s'opposent à une mesure/un enjeu propsoé par un
+    autre parti (sans nécéssairement proposer d'alternatives)
 
-- Definition of alternatives
-Conflict, when there are more "competition". 
+-   Parce que les partis se différencient en adoptant une position ou un
+    cadrage différent
 
-- Opposition : blame the government for bad performance regarding engative indicators (Seeberg et al)
-- Potential of mobilization
-- Exemple in the literature is European Integration where it was really marked by a consensus and has become conflictual (see Green 2007, Persico et Guinaudeau aussi pour nuancer)
+4.  Political parties : turning an valence issue to position as a party
+    strategy, even the green have turning to positional competition ?
+    Positional competition is a state but it is also a strategy from
+    political parties : go to see Riker. But in the case of climate
+    change : disagreement not only appears on the means, it appears on
+    the degree of climate action we should have and on the contestation
+    of performance.
 
-- Parce que les partis s'opposent à une mesure/un enjeu propsoé par un autre parti (sans nécéssairement proposer d'alternatives)
-- Parce que les partis se différencient en adoptant une position ou un cadrage différent
+Looking at Carter et al on climate change, they to distinguish this but
+they see it as a state of issue competition : positional when different
+position and valence/consensual when not. But when do parties try to
+turn an issue which was salient into a positional one ? Lead to
+formation of positions, when parties have to position themselves, to
+take a position on a issue when they did not have to take one. Changing
+opportunities ?
 
+--\> Mechanisms by which an issue become conflictual ?
 
-4. Political parties : turning an valence issue to position as a party strategy, even the green have turning to positional competition ? Positional competition is a state but it is also a strategy from political parties : go to see Riker. 
-But in the case of climate change : disagreement not only appears on the means, it appears on the degree of climate action we should have and on the contestation of performance. 
-
-Looking at Carter et al on climate change, they to distinguish this but they see it as a state of issue competition : positional when different position and valence/consensual when not. But when do parties try to turn an issue which was salient into a positional one ? Lead to formation of positions, when parties have to position themselves, to take a position on a issue when they did not have to take one. 
-Changing opportunities ? 
-
---> Mechanisms by which an issue become conflictual ? 
-
-
-Hence we argue that the conflictual nature of an issue depends on the struggle between the political parties that want to make this issue conflictual and those who want to privatize the conflict. 
+Hence we argue that the conflictual nature of an issue depends on the
+struggle between the political parties that want to make this issue
+conflictual and those who want to privatize the conflict.
 
 4.1 From consensus to polarization
 
-When considering the role of political parties in the expansion of conflict, it is good to come back to Schattschneider and its distinction between the socialization or the privatization of conflict. 
+When considering the role of political parties in the expansion of
+conflict, it is good to come back to Schattschneider and its distinction
+between the socialization or the privatization of conflict.
 
-If parties do not want to politicize an issue, and so to de-politicize it they can try to avoid it but they cannot always ignore the issue. So they can also individualize it and put it outside the scope of state intervention. They can also blur, avoiding taking clear positions by vaguely outlining their stances. Should mainstream parties try to limit the scope of conflict ? 
-How do parties increases the scope of conflict ? 
+If parties do not want to politicize an issue, and so to de-politicize
+it they can try to avoid it but they cannot always ignore the issue. So
+they can also individualize it and put it outside the scope of state
+intervention. They can also blur, avoiding taking clear positions by
+vaguely outlining their stances. Should mainstream parties try to limit
+the scope of conflict ? How do parties increases the scope of conflict ?
 
-Usages stratégiques des enjeux. 
+Usages stratégiques des enjeux.
 
-Is there existing work on politicisation as a strategy, parties may seek to alter the debate on this issue by turning an issue conflictual. 
+Is there existing work on politicisation as a strategy, parties may seek
+to alter the debate on this issue by turning an issue conflictual.
 
-- DO the greens have evolved on these kind of strategies ? 
+-   DO the greens have evolved on these kind of strategies ?
 
+But positional competition does not necesarrily mean different positions
+? The Downsian theory predict a convergence of the two parties towards
+the main voter.
 
-But positional competition does not necesarrily mean different positions ? The Downsian theory predict a convergence of the two parties towards the main voter. 
+What we mean here is that parties increasingly want to make their
+differences in terms of climate policy more salient to voters.
 
-What we mean here is that parties increasingly want to make their differences in terms of climate policy more salient to voters. 
+Néanmoins, cette littérature ne prend pas en compte la nature de valence
+ou de conflit de ces enjeux, les dimensions de crédibilité ou de
+compétence des partis, les stratégies d'attribution du blame ou de
+credit claiming.
 
-Néanmoins, cette littérature ne prend pas en compte la nature de valence ou de conflit de ces enjeux, les dimensions de crédibilité ou de compétence des partis, les stratégies d'attribution du blame ou de credit claiming. 
+--\> Changing opportunities
 
---> Changing opportunities
-
-Le conflit peut se manifester de plusieurs façons : 
-
+Le conflit peut se manifester de plusieurs façons :
 
 Dans tous les cas on a une différenciation
 
-In the case of the European Union, Persico and Guinaudeau argues that mainstream parties have incentives to focus on consensual issues and challenger parties in conflictual issues and radicalize their positions. But when does it happens and how ? With which dynamics ? 
+In the case of the European Union, Persico and Guinaudeau argues that
+mainstream parties have incentives to focus on consensual issues and
+challenger parties in conflictual issues and radicalize their positions.
+But when does it happens and how ? With which dynamics ?
 
-Green, J. (2007) When Voters and Parties Agree: Valence Issues and Party Competition.
-Political Studies. (55), 629–655.
+Green, J. (2007) When Voters and Parties Agree: Valence Issues and Party
+Competition. Political Studies. (55), 629--655.
+
+To make an issue positional parties must :
+
+-   Take positions
+-   Alter the salience of their positions
+-   Also parties make their positions more specific and precise
+
+--\> Parties take positions (they do not necesarilly change them) --\>
+Parties make their positions more salient (see ) --\> Parties make their
+positions more specific (from goals to means) --\> A party can also take
+a position different from the consensus and so increasing issue
+polarization. For the European Union case, it means for instance
+adopting a more euro-sceptic stance distinct from the consensus on
+European Integration. On positional theories see also Einelow and Einich
+1984 and 1990
+
+A party having already a position can also radicalize this position by
+increasing the distance between it and others. --\> Parties take more
+and positioRns on the topic because its coverage and
+
+From this, we can derive two main mechanisms from which an issue
+consensual can become conflictual : the insensity and the scope of
+politicization (Hoeglinger Politicizing European integrationpage 1) :
+
+-   Abstracted goals to means : l'augmentation du conflit autour du
+    changement climatique provient d'un déplacement du débat sur les
+    objectifs aux moyens. Cela inclut des coûts plus intense et
+    importants. Ainsi des acteurs qui étaient concernés mais ne
+    percevaient pas nécessairement de coûts. Isi on s'attend à une
+    radicalisation des positions, une augmentation de leur intensité.
+
+-   Limited vs broad scope : l'augmentation du conflit provient d'une
+    couverture de plus en plus large des acteurs inclus en termes de
+    secteurs et de policy fields. De plus en plus d'acteurs sont
+    concernés et font donc pression sur les policy-makers. Le plus un
+    enjeu est multidimnesional, plus d'endroit potentiel de conflit. Sur
+    le cas du climat c'est carrément lié. Ici on s'attend à une
+    multiplication des positions, à des positions et à des cadrages liés
+    auchangement climatique alors que cela ne l'était pas avant.
+
+--\> Increasing distance because both sector coverage (climatisation)
+and intensity of positions (see Directional competion)**:**
+level/depth/intensity\*\* and scope of politicization\*\* (Hoeglinger
+page 1)
+
+But party positions may also form in reaction to events, not necesarrily
+in elections.
+
+```         
+        - From the goals to the means (van der brug) : but ho
+        - The importance of strategic legislation
+    4.1.2 Capacity of government to claim credit
+    4.1.3 Capacity of government to avoid blame
+```
+
+Conflict become trade-off with other goals of the party and other
+issues. When climate change starts to be more national, covering more
+issue and more in depth, trade-off between how strong is the comitument
+to climate change and previous positions and reputation on other issues
+come to play.
+
+Moreover, we argue that political party have agency in this process.
+Meaning, that for instance, framing an issue as positional is a strategy
+in itself. Trying to keep it consensual is also a strategy. For
+instance, for a long time, the Greens have seek "consensus" on climate
+politics. At the same time, governments are still denounced for their
+**performance** on climate policy from the left, because they agree with
+the goal but challenge the competence. \# 5. An application to climate
+change
 
 
-To make an issue positional parties must : 
+# 4. A Theory of issue politicization
 
-- Take positions
-- Alter the salience of their positions
-- Also parties make their positions more specific and precise
+A partir de cette revue littérature, il s'agit ici de dégager une théorie plus générale de la façon dont un enjeu devient de plus en plus conflictuel. Il faut donc comprendre sous quelles conditions, comment et pourquoi les partis politiques peuvent chercher stratégiquement à intensifier, à augmenter ou non la controverse autour d'un enjeu. 
 
---> Parties take positions (they do not necesarilly change them)
---> Parties make their positions more salient (see )
---> Parties make their positions more specific (from goals to means)
---> A party can also take a position different from the consensus and so increasing issue polarization. For the European Union case, it means for instance adopting a more euro-sceptic stance distinct from the consensus on European Integration. On positional theories see also Einelow and Einich 1984 and 1990
+On considère tout d'abord que les partis politiques sont les principaux drivers de l'évolution des enjeux à travers leurs stratégies de mobilisation du conflit politique. 
 
+<!-- Structure des opportunités -->
 
-A party having already a position can also radicalize this position by increasing the distance between it and others. 
---> Parties take more and positioRns on the topic because its coverage and
+Evolution de la structure des opportunités en fonction de facteurs exogènes
 
+Dans certaines circonstances, enjeux ont stratégiquement un intérêt à être uniquement consensuel tandis que d'autres ont intérêt à être plus conflictuel
 
-From this, we can derive two main mechanisms from which an issue consensual can become conflictual : the insensity and the scope of politicization (Hoeglinger Politicizing European integrationpage 1) : 
-
-- Abstracted goals to means : l'augmentation du conflit autour du changement climatique provient d'un déplacement du débat sur les objectifs aux moyens. Cela inclut des coûts plus intense et importants. Ainsi des acteurs qui étaient concernés mais ne percevaient pas nécessairement de coûts. Isi on s'attend à une radicalisation des positions, une augmentation de leur intensité. 
-
-- Limited vs broad scope : l'augmentation du conflit provient d'une couverture de plus en plus large des acteurs inclus en termes de secteurs et de policy fields. De plus en plus d'acteurs sont concernés et font donc pression sur les policy-makers. Le plus un enjeu est multidimnesional, plus d'endroit potentiel de conflit. Sur le cas du climat c'est carrément lié. Ici on s'attend à une  multiplication des positions, à des positions et à des cadrages liés auchangement climatique alors que cela ne l'était pas avant. 
+Although the two issues are very different and the intensity of change
+as well, we can make a parallel between the Maastricht treaty and the
+Paris Agreement, as a critical event. But indirect effets, not direct,
+effets. We do not suggest that there was controversy around the Paris
+Agreement itself.
 
 
---> Increasing distance because both sector coverage (climatisation) and intensity of positions (see Directional competion)**: **level/depth/intensity** and scope of politicization** (Hoeglinger page 1)
+# An application to climate change
+
+On cherche désormais à appliquer ce cadre théorique pour comprendre l'évolution de l'enjeu climatique au niveau national. L'objectif est d'identifier les opportunités, incitations et stratégies des partis dans leur mobilisation du changement climatique comme un enjeu politique. 
+
+Two caracteristics : valence --> Performance of mainstream parties, potential of distributive conflict
+
+<!-- Caractéristiques des enjeux !-->
+
+Le changement climatique implique un dilemme pour les acteurs politiques, impliquant différentes incitations et stratégies. Cela provient de la double nature du changement climatique comme enjeu politique. D'un côté, il a une forte dimension de valence, la plupart des individus le considérant comme un problème sérieux. Lorsque l'enjeu est saillant, il est difficile à ignorer et et il peut être tentant pour les partis de chercher à en bénéficier en s'affichant comme compétent sur le sujet car il est facile d'être "pour l'action climatique". 
 
 
-But party positions may also form in reaction to events, not necesarrily in elections. 
+D'un autre côté, le changement climatique est un enjeu profondément redistributif et la mise en place de politiques climatiques ambitieuses nécessite l'imposition de coûts qui peuvent avoir des conséquences électorales.[@stokes_electoral_2016 ; @lachapelle_opposition_2019 ; paper Australia, paper Patterson]. Dans ces circonstances, les partis doivent alors aussi chercher à éviter le blame pour éviter un potentiel backlash, ou peuvent même chercher à adopter des stratégies adversariales pour gagner des bénéfices électoraux. Understand climate change speech as the degree of costs and transformation, who will bear the costs and who will win compared to status quo. 
 
-            - From the goals to the means (van der brug) : but ho
-            - The importance of strategic legislation
-        4.1.2 Capacity of government to claim credit
-        4.1.3 Capacity of government to avoid blame
+-   @colgan_asset_2021
 
-Conflict become trade-off with other goals of the party and other issues. When climate change starts to be more national, covering more issue and more in depth, trade-off between how strong is the comitument to climate change and previous positions and reputation on other issues come to play. 
-
-Moreover, we argue that political party have agency in this process. Meaning, that for instance, framing an issue as positional is a strategy in itself. Trying to keep it consensual is also a strategy. For instance, for a long time, the Greens have seek "consensus" on climate politics. At the same time, governments are still denounced for their **performance** on climate policy from the left, because they agree with the goal but challenge the competence. 
-# 5. An application to climate change
-
-
-opportunies --> Incentives --> Strategies 
-
-Our goal is thus to apply this theoretical framework to understand the dynamics of climate change at the domestic level. While climate politics have long been studied at the international level, we aim to open the "black box" of domestic climate politics [@harrison_comparative_2007]. We want to explain why (*incentives*), how (*strategies*) and when (*opportunities*) some political parties at certain moment mobilize climate change as a political issue. 
-
-## Issue characteristics
-
-At the center of our model are political parties that we consider as the drivers of issue evolution through their strategies of political conflict mobilization. We argue that climate change involve a dilemma for political actors, creating different incentives and leading to different strategies. This dilemma relies on the double nature of climate change as a political issue. On the one hand, climate change is a really salient issue : most people consider it as serious and important, it may be high on the agenda and it is hard to ignore. It is easy to be "in favor of climate action". On the other hand, climate policies are highly distributive and impose costs on people, may be electorally costly with risk of backlash [@stokes_electoral_2016 ; @lachapelle_opposition_2019 ; paper Australia, paper Patterson]. Hence some political actors could avoid political cost with ignoring the topic to avoid backlash (see Stokes on wind turbines) and even gain some electoral benefits adopting adversarial strategies (ex: Trump, Australie, Ontario); 
-
-But this incentives depend on the structure of opportunities they face and we argue that these opportunities have changed over time, in particular in recent years due to the evolution of climate governance. In particular, we hypothesise that the benefits for parties in governement to politicise climate change have decreased while the electoral costs of action have increased. 
-I argue that two primary factors contribute to the politicization of climate change by political parties: the ability of mainstream parties in government to take credit for their leadership on climate action, and the perceived costs associated with the implementation of climate policies. Structural factors affecting these opportunities have then lead to different dynamics of politicsation. 
-
-From the literature on climate governance and leadership on the one hand and political economy on the other hand, we derive two mechanisms affecting the opportunities that political parties have to politicize climate change. 
+Selon moi, l'évolution de l'enjeu climatique peut être comprise comme l'évolution du rapport de force entre les partis qui peuvent bénéficier ou perdre de la politisation du changement climatique. Cette évolution provient à la fois d'un changement des opportunités et donc des incitations des partis à adopter des stratégies plus conflictuelles face à cet enjeu. 
 
 # Changing opportunities : the Paris Agreement critical events
 
-Although the two issues are very different and the intensity of change as well, we can make a parallel between the Maastricht treaty and the Paris Agreement, as a critical event. But indirect effets, not direct, effets. We do not suggest that there was controversy around the Paris Agreement itself. 
-
-Hence it transform a performance contest over the goal to a contest of the means, around public policies. 
-
-Indeed, the Paris Agreement has led to changing "logic" of climate politics through *National Determined Contributons* and the rise of blaming and shaming. The Paris Agreement has changed these structure of opportunities through two mechanisms. 
-
-Climate change has long been perceived as a *collective action problem* requiring international coordination across countries to ratify agrrements [@keohane_paris_2016-1]. Climate change constructed as an international problem but evolution of governance giving more weight to national level : change in the structure of opportunities and incentives political parties have to mobilize this issue. 
-
-Degree of conflict manifest through the capacity of governemnts to effectively implement ambitious climate policies. 
+A partir de la littérature sur la gouvernance climatique et le leadership d'un côté et celle sur l'économie politique d'un autre, on peut identifier deux mécanismes par lesquels la structure d'opportunité a pu changer. 
 
 
-- @colgan_asset_2021
+The Paris Agreement has changed these structure of
+opportunities through two mechanisms.
 
-I argue that two primary factors contribute to the politicization of climate change by political parties: the ability of mainstream parties in government to take credit for their leadership on climate action, and the perceived costs associated with implementing climate policies. 
+Climate change has long been perceived as a *collective action problem*
+requiring international coordination across countries to ratify
+agrrements [@keohane_paris_2016-1]. Climate change constructed as an
+international problem but evolution of governance giving more weight to
+national level : change in the structure of opportunities and incentives
+political parties have to mobilize this issue.
+
+Selon moi, deux facteurs principaux contribuent à déterminer la façon dont un enjeu est politisé par les partis politiques : la capacité des partis au gouvernement à le cadrer comme un enjeu consensuel sur lequel ils sont perçus comme compétent et la perception des coûts associés à la mise en place de politiques climatiques. 
 
 <!-- Mechanism 1 : higher pressure to implement policies and name and shame, more symbolic aspect !-->
 
-Performance aspect : mainstream parties in government are less and less perceived as competent to handling climate change. 
+Tout d'abord, la capacité des partis au gouvernement à être perçu comme compétent pour gérer le changement climatique a été de plus en plus mise à mal. Il leur est dit plus en plus difficile de "claim credit" sur l'action climatique. En effet, la nouvelle logique de l'Accord de Paris a diminué cette capacité. Dans ce cadre, les gouvernements nationaux doivent mettre en place des cibles volontaires de réduction d'émissions.  
 
+- Des opportunités croissantes de politisation pour l'opposition : les coûts de l'inaction
 
-First, we argue that the *new logic* of the Paris Agreement decreases the ability of national governments to claim credit on climate action. In this framework, national governments have to set themselves voluntary pledges of emissions reductions. This offer opportunities for opposition actors to hold them accountable for meeting those targets. This idea of naming and shaming has been seen as a mean to force states to comply with their objectives [@falkner_paris_2016]. Since the agreement implementation, the denunciation of politicians' inaction and non-compliance with climate goals is actively used by NGO's and climate movements such as Extinction Rebellion and Fridays for Future. Several of these groups track these pledges and their compliance to call out those who fall behind. For instance, it was as a result of legal action launched by several NGOs (the "Affaire du siècle") that the French government was convicted in 2021 for failing to comply with the international commitments made under the Paris Agreement. These examples demonstrate the potential politicization of these pledges derived by the Paris Agreement. 
+Ainsi, on défend que l'Accord de Paris a offert des opportunités croissantes pour les partis d'opposition pour rendre le gouvernement "accountable" sur sa performance de politique climatiques. En effet, dans ce cadre, les gouvernements nationaux doivent mettre en pace des cibles volontaires de réduction d'émission. L'idée de name and shame à été ainsi vue comme un moyen de forcer les Etats à comply avec leurs objectifs [@falkner_paris_2016]. Depuis l'Accord de Paris, la dénonciation de l'inaction et du non respect des objectifs climatiques est activement utilisée par des ONGs et des mouvements comme Exctinction Rebellion ou Fridays for Future. Plusieurs de ces groupes "track" le respect des promesses pour dénoncer ceux qui ne s'y tiennent pas. par exemple, le gouvernement français a été condamné pour inaction climatique en 2021 pour ne pas avoir respecter ses engagements internationaux dans le cadre de l'Accord de Paris. Cet exemple témoigne de la potentielle politisation du changement climatique via l'accountability. A relier avec électeurs potentiellement motivés par un vote climatique. Cela va dans le sens de perte de bénéfices pour les majorités à tirer crédit de l'enjeu climatique.
 
+Degree of conflict manifest through the capacity of governemnts to
+effectively implement ambitious climate policies.
+
+- Politiser les perdants de l'action climatique : le problème climatique comme redistributif
+
+L'Accord de Paris et la pression de mettre en oeuvre des politiques climatiques plus intenses et couvrant plus de secteurs a aussi conduit à déplacer le débat des buts aux moyens, autour des politiques publiques. Etant donné la nature distributive des politiques climatiques, cela a ainsi pu conduire à une perception que les coûts de politiques climatiques seront plus intenses et concerneront plus d'individus. 
+
+Cette évolution contribue tout d'abord à accroître le coût politique potentiel de la mise en place de politiques climatiques pour les partis au gouvernement. 
+
+<!-- Ces coûts des politiques climatiques peuvent être matériels mais aussi identity-based !-->
+
+Mais surtout, l'apparition de potentiels perdants de politiques climatiques peut fournir des opportunités à des partis qui y voit un potentiel réservoir de votes. C'est notamment le cas des partis de droite radicale qui ont peuvent potentiellement bénéficier de ces électeurs en politisant les coûts des politiques climatiques.  Les dernières élections aux Pays-bas ont pu montré qu'il pouvait s'agir d'agriculteurs au niveau local. 
+
+Ces deux évolutions prises en compte, les bénéfices de politisation du changement climatique pour les partis au gouvernement ont diminué tandis que le coût électoral de l'action à augmenter. 
 
 
 ```{mermaid, eval = FALSE}
@@ -525,108 +777,117 @@ flowchart LR
   I --> Z 
 ```
 
-If many research have insisted on the highly distributive and interest based nature of climate politics, the importance of this to explain public support, we do not really now how these groups are mobilized by political elites. 
+## Hypotheses
+
+Following our theoretical framework, we expect that the Paris Agreement is a critical event triggering an increasing political conflict around climate change. However, we do not expect immediate consequences because the Paris Agreement in itself was quite consensual in western european countries. 
+
+H1 : Polarization on climate change has increased over time with political parties proposing clearer and distinct alternatives. 
+
+We then want to understand which parties are the driving forces of these processes before and after the Paris Agreement. 
+
+Before the Paris Agreement, we expect that parties in governement are the main driver of climate salience more than opposition because of their *competitive advantage* relative to executive leadership in international climate politics (strateig use of climate change for credit claiming).  Conversely, we expect that due to success of governement parties to be perceived as competent in handling the issue and the low salience of policy costs, oppositions had few opportunities to create socialize political conflict. Because of government, we expect few differences between left and right, except for green parties to be the issue owners.  
+
+H2 : Governments have increasingly loss their capacity to set the climate agenda
+
+With th nationalisation of climate politics after the Paris Agreement, we expect that the capacity of government parties to set the agenda on climate change have been contested from two sides. Opposition from the left have more opportunities to gain votes by contesting the competence of government to deal with climate change and politicizing the costs of inaction. They should seek to make the government more and more accountable for their pledge. Left-Wing parties do increasingly appeal to educated, young and urban voters that are the most concerned about climate change and could potentially vote on that topic. If they would have some trade-off because of their carbon intensive constituencies, this could be less and less the case. These parties should increase the salience of climate change and pro climate content. Social-democratic and new left parties should contest the ownership of the greens and appear less and less divided on the topic. 
+
+H3 : The left and greens should increasingly "pro" climate policies and
+oppose climate government policies
+
+Opposition from the right have more opportunities to politicize the incresingly intense and broad perceived costs of climate policies. In that context, parties in government cannot ignore the issue but should try to avoid the blame. In that context, we should expect increasing political conflict. Radical Right parties could be one of the driver of polarization around
+climate change in Europe [@luth_electoral_2022]. In the literature,
+these parties have been depicted are more prone to climate-skeptcisim,
+mostly because of their ideology (Lockwood 2018). Even though they have
+move away from purely science scepticism, existing research show that
+they have a negative effect on climate policy outputs and outcome when
+they enter national governments as well as erosion of international
+cooperation [@jahn_quick_2021]. Their effect on public attitudes however
+it is not clear, the only research looking at their effect on climate
+attitudes show limited evidence [@duijndam_understanding_2021].
+Different scholars also suggest that ooposing climate policies may
+benefit radical right parties [@voeten_energy_2022,
+@luth_electoral_2022, @otteni_global_nodat].
+
+As perceived climate policy costs increase due to the nationalisation of
+climate politics, radical right parties could try to reap electoral
+benefits appealing to climate losers of decarbonization. At the same
+time, they could also try to avoid the topic.
+
+-   Climate change politicisation is driven by the **nationalisation**
+    of climate politics, giving more weight to domestic politics,
+    critical juncture
+-   Climate change politicisation is due to increasing conflicts over
+    climate policies and not climate change per se.
+
+H3 : **Perceived electoral costs** : increased presence of economic
+costs framing. That climate policies are more and more opposed because
+of their economic costs. And this should be higher for **domestic cost
+framing**. - Costs and who shold bear them ? This line of argument could
+be extended to the left that has potentially more and more oriented its
+discours on climate inequalities and taxing the rich. If the literature
+suggest that the salience of perceived climate policy costs has
+increased, it has never been really tested.
 
 
-Political parties could either promote and oppose climate policies because of the **interests of the social groups they represent**. In the case of radical right parties, we would suppose that they try to politicize the costs of climate policies in order to appeal to losers of decarbonization. It may be farmers for the right or the BBB exemple in the Netherlands, or may be in the local area with wind farms in MP's constituencies. Anoter explanation found in the literature is more ideology-identity based. Climate change and policies implemented may be perceived as a threat to the ideology/identity of some social groups that political parties seek to represent. 
+H4 : **Radical Right** : - Radical Right parties should emphasize the
+domestic economic costs framing of climate change
 
 
+Nevertheless, there is high heterogeneity among radical right parties
+stances on the topic, over time and across countries. In is not clear
+when do they change, why do they adapt more accomodative or adversarial
+stances in different countries. We dont know neither what is driving
+their stances. And what is their effect on electoral competition (paper
+cetkovic suggest pro climate effect because centre-right want to
+differentiate itself from the radical right. ). We argue that the
+political visibility of climate policies costs and benefits are
+essential to understand polarization of climate change. Hence, as
+climate policies become salient, left-wing parties should try to raise
+the salience of climate action benefits and the costs of **inaction**.
+Right wing parties should emphasize the cost of action, but minimize the
+costs of inaction.
 
-## Driving actors : which parties drive the politicisation of climate change ? 
+Regarding radical right parties, we should still be careful about why do
+they oppose climate policies in some countries and not others
 
-### Government vs opposition
+Why do they oppose to climate policies in some countries and not others
+?
 
-Before the Paris Agreement, we expect that government parties act as a driver of climate salience more than the opposition in parliament because of their "competitive advantage". After the Paris Agreement, this should decline because opposition parties have more and more opportunities to politicize the issue and the competitive advantage decreases as the contestation increases. - Govervenments may have lost their competitive advantage and being increasingly contested : from credit claiming to blame avoidance. After the Paris Agreement, there should be less and less differences of politicization between opposition and government parties. Expectation that mainstream parties in governement have lost a "competitive advantage" on climate change related to executive leardership in international climate politics. While they could strategically used this leadership to credit claim on climate action, the nationalisation of climate politics have made this harder, giving more opportunities for the opposition to criticize the governement. Les partis au pouvoir pouvaient plus facilement paraitre vert et leaders sans oppositions alors que ce n'est plus le cas aujourd'hui, opposition cherche à montrer les contradictions des gouvernements sur ces questions : on serait passé d'un agenda-setting power de la majorité à celui de l'opposition. Ainsi, le leadership potentiel tiré de l'action climatique a été de plus en plus contesté.
+We should also expect than rather than coming from the right, the polarization come from the left : inspiration from the out-group clues litterature. 
 
-Ability to set the agenda. 
-
-
-### Center parties
-
-Should we formulate hypothesis regarding conservatives parties and liberal parties regarding climate change ? We could suppose that when they are not in government, they do not have incentive to really talk about it but should still not ignoring it giving its high salience. 
-
-
-### The radical right and climate change
-
-Radical Right parties could be one of the driver of polarization around climate change in Europe [@luth_electoral_2022]. In the literature, these parties have been depicted are more prone to climate-skeptcisim, mostly because of their ideology (Lockwood 2018). Even though they have move away from purely science scepticism, existing research show that they have a negative effect on climate policy outputs and outcome when they enter national governments as well as erosion of international cooperation [@jahn_quick_2021]. Their effect on public attitudes however it is not clear, the only research looking at their effect on climate attitudes show limited evidence [@duijndam_understanding_2021]. Different scholars also suggest that ooposing climate policies may benefit radical right parties [@voeten_energy_2022, @luth_electoral_2022, @otteni_global_nodat]. 
-
-As perceived climate policy costs increase due to the nationalisation of climate politics, radical right parties could try to reap electoral benefits appealing to climate losers of decarbonization. At the same time, they could also try to avoid the topic. 
-
-- Climate change politicisation is driven by the **nationalisation** of climate politics, giving more weight to domestic politics, critical juncture
-- Climate change politicisation is due to increasing conflicts over climate policies and not climate change per se. 
-
-Nevertheless, there is high heterogeneity among radical right parties stances on the topic, over time and across countries. In is not clear when do they change, why do they adapt more accomodative or adversarial stances in different countries. We dont know neither what is driving their stances. And what is their effect on electoral competition (paper cetkovic suggest pro climate effect because centre-right want to differentiate itself from the radical right. ). We argue that the political visibility of climate policies costs and benefits are essential to understand polarization of climate change. Hence, as climate policies become salient, left-wing parties should try to raise the salience of climate action benefits and the costs of **inaction**. Right wing parties should emphasize the cost of action, but minimize the costs of inaction. 
-
-Regarding radical right parties, we should still be careful about why do they oppose climate policies in some countries and not others
+H5 : **Backlash hypothesis** : The more the left emphasize climate
+change, the more the right adopt more distant positions on the issue
 
 
- Why do they oppose to climate policies in some countries and not others ?
-
-
-## The left-wing hypothesis
-
-
-Left-Wing parties do increasingly appeal to educated, young and urban voters that are the most concerned about climate change and vote for that issue. If they could have some trade-off because carbon intensive constituencies, this could be less and less the case. 
-
-Opposing strategies : making government accountable for their pledges and policies. 
-
--   Increase salience
--   Increase pro-climate content
--   Contest ownership of the green
--   Less and less divided
-
-## The interaction hypothesis
-
-Rather than coming from the right, the polarization may also come from the left. Out-group cues. 
-
-# Final predictions
-
-7. transformation d'un consensus relatif entre gauche et droite où parti au pouvoir avait avantage compétitif car potentiels bénéfices du leadership international à competitive disagreement ou partis sont en désaccords. 
-
-| Structural impacts of the Paris Agreement 	| Opportunities for government parties 	| Opportunities for opposition parties 	|  	|  	|
-|---	|---	|---	|---	|---	|
-| Costs of implementing climate policies 	| Harder for parties in governement to implement climate policies  fear of electoral costs 	| Easier for opposition parties (particularly right wing) to politicize the costs of action 	|  	|  	|
-| Benefits of implementing climate policies 	| Harder for parties in government to claim climate leadership 	| Easier for opposition parties (particularly left-wing) to politicize the costs of inaction 	|  	|  	|
-|  	|  	|  	|  	|  	|
-
-## Testable hypotheses
-
-## Polarisation hypothesis
-
-H1 : **Polarization between political parties on climate change has increased over time and particularly after the Paris Agreement**. Hence, it should be easier and easier to distinguish political parties on their climate-related discourses. Clarity of alternatives. 
-
-H2 : **Governments have increasingly less capacity to impose the the climate agenda** 
-    - What about the collective action framing ? 
-
-
-
-H3 : **Perceived electoral costs** : increased presence of economic costs framing. That climate policies are more and more opposed because of their economic costs. And this should be higher for **domestic cost framing**. - Costs and who shold bear them ? This line of argument could be extended to the left that has potentially more and more oriented its discours on climate inequalities and taxing the rich. If the literature suggest that the salience of perceived climate policy costs has increased, it has never been really tested. 
-
-
-
-
-H3 : The left and greens should increasingly "pro" climate policies and oppose climate government policies
-
-H4 : **Radical Right** : 
-    - Radical Right parties should emphasize the domestic economic costs framing of climate change
-
-
-
-H5 : **Backlash hypothesis** : The more the left emphasize climate change, the more the right adopt more distant positions on the issue
-
-H6 : Structure of competition : structure of conflict should have shifted from gov and opp from left to right. While ideology was not the main driver of politicization in the 2000's, it should be a better predictor now. Symbolic performance between gov and opp before the Paris Agreement and positioning conflict between left and right afterwards (competitive disagreement). Ainsi, se développeraient de conflits de plus en plus important entre ceux promouvant une action climatique plus importante et ceux qui rejettent la mise en place de politiques climatiques [@zilles_protest_2022]. On pourrait ainsi observer une contestation croissante des politiques climatiques depuis deux pôles
+<!-- Should we formulate hypothesis regarding conservatives parties and
+liberal parties regarding climate change ? We could suppose that when
+they are not in government, they do not have incentive to really talk
+about it but should still not ignoring it giving its high salience. !-->
 
 
 
-When 
-A réflechir aussi pour comprendre l'adoption et le timing de certains frames : c'est notamment possible avec de l'event history analisis. 
-## Operationalization
 
-### Measuring polarization
-
-As climate change is a really complex issue, it is difficult to measure precise positions. However, what really interest us is how they differ, how coherent and clear they are on the topic. Indeed, the increased clarity of positions of the elites are an indicator of issue evolution. For this, a first way is to use SML to try to predict the label of the political party on a climate speech. This could be used to measure inter-party and intra-party variance based on the predicted probability. 
-
-Inaction frame : in the media, in the movements and how government react : ministey of environment, in public discourse. Does denoucing climate inaction affect government climate discourse ? 
+7.  transformation d'un consensus relatif entre gauche et droite où
+    parti au pouvoir avait avantage compétitif car potentiels bénéfices
+    du leadership international à competitive disagreement ou partis
+    sont en désaccords.
 
 
-        
+H6 : Structure of competition : structure of conflict should have
+shifted from gov and opp from left to right. While ideology was not the
+main driver of politicization in the 2000's, it should be a better
+predictor now. Symbolic performance between gov and opp before the Paris
+Agreement and positioning conflict between left and right afterwards
+(competitive disagreement). Ainsi, se développeraient de conflits de
+plus en plus important entre ceux promouvant une action climatique plus
+importante et ceux qui rejettent la mise en place de politiques
+climatiques [@zilles_protest_2022]. On pourrait ainsi observer une
+contestation croissante des politiques climatiques depuis deux pôles
+
+
+| Structural impacts of the Paris Agreement | Opportunities for government parties                                                    | Opportunities for opposition parties                                                       |     |     |
+|---------------|---------------|---------------|---------------|---------------|
+| Costs of implementing climate policies    | Harder for parties in governement to implement climate policies fear of electoral costs | Easier for opposition parties (particularly right wing) to politicize the costs of action  |     |     |
+| Benefits of implementing climate policies | Harder for parties in government to claim climate leadership                            | Easier for opposition parties (particularly left-wing) to politicize the costs of inaction |     |     |
+|                                           |                                                                                         |                                                                                            |     |     |
+
